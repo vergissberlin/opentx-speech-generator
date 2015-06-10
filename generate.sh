@@ -38,11 +38,11 @@ while read -r line; do
 		# Only if it has a text
 		if [ -n "$english" ]; then
     		lang='english'
-    		# Veena, Daniel, Bruce
+    		# Veena, Daniel, Bruce, Victoria
     		voice='Daniel'
     		mkdir -p "lang/${lang}/${voice}"
 			filename=lang/${lang}/${voice}/${index}.wav
-			echo "en:\t${english}"
+			echo "🇬🇧\t${english}"
 			# Synthesize text
 			say -v ${voice} -o temp.wav --data-format=I16@22050 $english
 			# Adapt format to be 9XR PRO compatible
@@ -56,7 +56,7 @@ while read -r line; do
     		voice='Markus'
     		mkdir -p "lang/${lang}/${voice}"
 			filename=lang/${lang}/${voice}/${index}.wav
-			echo "de:\t${german}"
+			echo "🇩🇪\t${german}"
 			# Synthesize text
 			say -v ${voice} -o temp.wav --data-format=I16@22050 $german
 			# Adapt format to be 9XR PRO compatible
