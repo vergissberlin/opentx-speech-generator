@@ -1,0 +1,6 @@
+*~
+.DS_Store
+.idea
+/lang
+atlassian-ide-plugin.xml
+temp.wav
