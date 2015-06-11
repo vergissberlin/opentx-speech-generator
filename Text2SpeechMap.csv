@@ -1,317 +1,317 @@
-# Language,English,German,French,Espanol,Turkish,Russian,Polish
-:key,en,de,fr,es,tu,ru,pl
-:voice,Daniel,Markus,Thomas,Monica,Yelda,Milena,Zosia
-0000,Zero,Null,Zéro,Cero,Sıfır,Нулю,Zero
-0001,One,Eins,Une,Uno,Bir,Один,Jeden
-0002,Two,Zwei,Deux,Dos,Iki,Два,Dwa
-0003,Three,Drei,Trois,Tres,Üç,Три,Trzy
-0004,Four,Vier,Quatre,Cuatro,Dört,Четыре,Cztery
-0005,Five,Fünf,Cinq,Cinco,Beş,Пять,Pięć
-0006,Point Zero,Komma null,Point zéro,Punto Cero,Point Zero,Нулевая Точка,Punkt Zero
-0007,Point one,Komma eins,Un point,Punto uno,Nokta bir,Пункт первый,Jeden punkt
-0008,Point two,Komma zwei,Le deuxième point,Punto dos,Nokta iki,Второй пункт,Punkt dwóch
-0009,Point three,Komma drei,Troisième point,Punto tres,Nokta üç,Точка три,Punkt trzeci
-0010,Point four,Komma vier,Le quatrième point,El punto cuatro,Nokta dört,Четвертый пункт,Punkt cztery
-0011,Point five,Komma fünf,Virgule cinq,El punto cinco,Nokta beş,Точка пять,Punkt pięć
-0012,Point six,Komma sechs,Virgule six,Punto de seis,Nokta altı,Точка шесть,Punkt sześć
-0013,Point seven,Komma sieben,Point de sept,Punto de siete,Nokta yedi,Точка семь,Punkt siedem
-0014,Point eight,Komma acht,Point de huit,Punto de ocho,Nokta sekiz,Точка восемь,Punkt osiem
-0015,Point nine,Komma neun,Virgule neuf,Punto de nueve,Nokta dokuz,Точка девять,Punkt dziewięć
-0021,Warning,Warnung,Avertissement,Advertencia,Uyarı,Предупреждение,Ostrzeżenie
-0022,Error,Fehler,Erreur,Error,Hata,Ошибка,Błąd
-0023,Alert,Alarm,Alerte,Alerta,Uyanık,Тревога,Czujny
-0024,Feet,Fuß,Pieds,Pies,Ayaklar,Ноги,Stopy
-0025,Foot,Fuß,Pied,Pie,Ayak,Фут,Stopa
-0026,Minus ,Minus,Moins,Menos,Eksi,Минус,Minus
-0027,,,,,,,
-0028,Welcome. Have a nice flight!,Willkommen. Viel Spaß beim Fliegen und denke dran: Arbeitsschutz geht uns alle an!,Bienvenue. Avoir un bon vol!,Bienvenido. Tener un buen vuelo!,Hoşgeldiniz. Güzel bir uçuş var!,Добро пожаловать. имеют приятный полет!,Witamy. Miłego lotu!
-0029,Limit,Limit,Limite,Límite,Limit,Предел,Limit
-0030,RPM,Umdrehungen pro Minute,RPM,RPM,RPM,RPM,RPM
-0031,Flight Battery Low,Flugbatterie leer,Vol de batterie faible,Vuelo de batería baja,Uçuş Pil Düşük,Полет Низкий заряд батареи,Lot Battery Low
-0032,Radio Voltage,Senderspannung,Radio Voltage,Radio Voltaje,Radyo Gerilim,Радио Напряжение,Radio napięcia
-0033,Current,Strom,Courant,Corriente,Şimdiki,Ток,Prąd
-0034,Altitudet,Höhe,Altitudet,Altitudet,Altitudet,Altitudet,Altitudet
-0035,Point,Punkt,Point,Punto,Nokta,Точка,Punkt
-0036,Volts,Volt,Volts,Voltios,Volt,Вольт,V
-0037,Volt,Volt,Volt,Voltio,Volt,Вольт,Wolt
-0038,Minutes,Minuten,Procès-verbal,Acta,Dakika,Минут,Protokół
-0039,Minute,Minute,Minute,Minuto,Dakika,Минут,Minuta
-0040,Pack Voltage,Packspannung,Pack de tension,Paquete de Voltaje,Paketi Gerilim,Пакет Напряжение,Paczka napięcia
-0041,30 Seconds,30 Sekunden,30 secondes,30 Segundos,30 Saniye,30 секунд,30 Seconds
-0042,20 Seconds,20 Sekunden,20 secondes,20 segundos,20 Saniye,20 секунд,20 Sekund
-0043,10 Seconds,10 Sekunden,10 secondes,10 segundos,10 Saniye,10 секунд,10 Sekund
-0044,Percent,Prozent,Pour cent,Por ciento,Yüzde,Процентов,Procent
-0045,Inactivity Alarm,Inaktivitätsalarm,Inactivité alarme,Inactividad de Alarma,Hareketsizlik Alarmı,Бездействие сигнализации,Alarm nieaktywności
-0046,Radio Battery Low,Senderbatterie leer,Radio batterie faible,Radio de batería baja,Radyo Battery Low,Радио Низкий заряд батареи,Radio Battery Low
-0047,Degrees,Grad,Degrees,Grados,Dereceler,Степени,Stopni
-0048,Degree,Grad,Degré,Grado,Derece,Степень,Stopień
-0049,Receiver Voltage,Empfängerspannung,Récepteur Tension,Receptor Voltaje,Alıcı Gerilim,Приемник Напряжение,Odbiornik Napięcie
-0050,Temperature,Temperatur,Température,Temperatura,Sıcaklık,Температура,Temperatura
-0051,Amps,Amper,Amps,Amps,Amper,Усилители,Wzmacniacze
-0052,Amp,Amper,Amp,Amperio,Amper,Ампер,Amp
-0053,Seconds,Sekunden,Secondes,Segundos,Saniye,Секунд,Sekundy
-0054,Second,Sekunde,Deuxième,Segundo,Ikinci,Второй,Drugi
-0055,DB,DB,DB,DB,DB,База данных,DB
-0056,Meters,Meter,Mètres,Metros,Metre,Метры,Metrów
-0057,Meter,Meter,Mètre,Metro,Metre,Метр,Metr
-0058,No Telemetry,Keine Telemetrie,Pas de télémétrie,No Telemetría,Hiçbir Telemetri,Нет телеметрии,Nie Telemetria
-0059,Receiver Voltage Low,Empfängerspannung niedrig,Récepteur basse tension,Receptor de Baja Tensión,Alıcı Gerilim Düşük,Приемник Низкое напряжение,Odbiornik Low Voltage
-0060,Temperature Warning,Temperaturwarnung,Avertissement de température,Temperatura Advertencia,Sıcaklık Uyarısı,Температура Предупреждение,Ostrzeżenie temperatury
-0061,Altitude Warning,Höhenwarning,Altitude Avertissement,Altitud Advertencia,Rakım Uyarı,Высота над уровнем моря Предупреждение,Wysokość Ostrzeżenie
-0062,Watt,Watt,Watt,Vatio,Vat,Ватт,Wat
-0063,Watts,Watt,Watts,Watts,Watts,Вт,Watts
-0064,Knot,Knoten,Nœud,Nudo,Düğüm,Узел,Węzeł
-0065,Knots,Knoten,Knots,Nudos,Knot,Узлы,Węzły
-0066,Milliamp,Milliamper,Milliamp,Miliamperios,Miliamper,Миллиампер,Prądowego
-0067,Milliamps,Milliamper,Milliamps,Miliamperios,Miliamper,Миллиампер,MA
-0068,Milliamp/Hour,Milliamper pro Stunde,Milliampères / heure,Miliamperios / hora,Miliamper / saat,Миллиампер / час,Prądowego / godzina
-0069,Milliamps/Hour,Milliamper pro Stunde,Milliampères / heure,Miliamperios / hora,Miliamper / saat,Миллиампер / час,MA / dobę
-0070,RSSI Alert/RF signal low,Funksignal schwach,Alerte RSSI / signal de faible RF,RSSI Alerta / señal de RF de baja,RSSI Uyarısı / düşük RF sinyali,ПУПС оповещения / ВЧ сигнал низкого,RSSI Alert / niski sygnał RF
-0071,RF Signal Critical,Funksignal kritisch,RF Signal critique,RF de señal crítico,RF Sinyal Kritik,РФ сигнала Критическая,Krytyczne sygnału RF
-0072,Receiver signal lost,Funksignal verloren,Signal de réception perdu,Señal del receptor pierde,Alıcı sinyali kaybolduğunda,Потеряли приемник сигнала,Stracił sygnał zwrotny
-0073,Batt Capacity Warning,Batteriekapazitätswarnung,Batt Capacité Avertissement,Batt capacidad de alerta,Batt Kapasite Uyarısı,Батт Емкость Внимание,Batt Pojemność Ostrzeżenie
-0074,,,,,,,
-0075,,,,,,,
-0076,,,,,,,
-0077,,,,,,,
-0078,,,,,,,
-0079,,,,,,,
-0080,,,,,,,
-0081,,,,,,,
-0082,,,,,,,
-0083,,,,,,,
-0084,,,,,,,
-0085,,,,,,,
-0086,,,,,,,
-0087,,,,,,,
-0088,,,,,,,
-0089,,,,,,,
-0090,,,,,,,
-0091,,,,,,,
-0092,,,,,,,
-0093,,,,,,,
-0094,,,,,,,
-0095,,,,,,,
-0096,,,,,,,
-0097,,,,,,,
-0098,,,,,,,
-0099,,,,,,,
-,,,,,,,
-0100,Hundred,Hundert,Cent,Cien,Yüz,Сто,Sto
-,,,,,,,
-0101,One Hundred,Einhundert,Cent,Cien,Yüz,Сто,Sto
-0102,Two Hundred,Zweihundert,Deux Cent,Doscientos,Iki yüz,Двести,Dwieście
-0103,Three Hundred,Dreihundert,Trois Cents,Trescientos,Üç Yüz,Триста,Trzysta
-0104,Four Hundred,Vierhundert,Quatre Cents,Cuatrocientos,Dört Yüz,Четыре Сотни,Czterysta
-0105,Five Hundred,Fünfhundert,Cinq-Cents,Quinientos,Beş Yüz,Пятьсот,Pięćset
-0106,Six Hundred,Sechshundert,Six Cents,Seiscientos,Altı Yüz,Шестьсот,Sześćset
-0107,Seven Hundred,Siebenhundert,Sept Cent,Setecientos,Yediyüz,Семьсот,Siedemset
-0108,Eight Hundred,Achthundert,Huit Cent,Ochocientos,Sekiz Yüz,Восемьсот,Osiemset
-0109,Nine Hundred,Neunhundert,Neuf Cent,Novecientos,Dokuz Yüz,Девятьсот,Dziewięćset
-,,,,,,,
-0110,Thousand,Tausend,Mille,Mil,Bin,Тысяча,Tysiąc
-,,,,,,,
-0111,One Thousand,Eintausend,Mille,Mil,Bin,Тысяча,Tysiąc
-0112,Two Thousand,Zweitausend,Deux Mille,Dos Mil,İki Bin,Две Тысячи,Dwa Tysiące
-0113,Three Thousand,Dreitausend,Trois Mille,Tres Mil,Üç Bin,Три Тысячи,Trzy Tysiące
-0114,Four Thousand,Viertausend,Quatre Mille,Cuatro Mil,Dört Bin,Четыре Тысячи,Cztery tysiące
-0115,Five Thousand,Fünftausend,Cinq Mille,Cinco Mil,Beş Bin,Пять Тысяч,Pięć Tysięcy
-0116,Six Thousand,Sechstausend,Six Milles,Seis Mil,Altı Bin,Шесть Тысяч,Sześć tysięcy
-0117,Seven Thousand,Siebentausend,Sept Mille,Siete Mil,Yedi Bin,Семь Тысяч,Siedem Tysięcy
-0118,Eight Thousand,Achttausend,Huit Mille,Ocho Mil,Sekiz Bin,Восемь Тысяч,Osiem Tysięcy
-0119,Nine Thousand,Neuntausend,Neuf Mille,Nueve Mil,Dokuz Bin,Девять Тысяч,Dziewięć Tysięcy
-,,,,,,,
-0120,Ten Thousand,Zehntausend,Dix Mille,Diez Mil,On Bin,Десять Тысяч,Dziesięć Tysięcy
-0121,Eleven Thousand,Elftausend,Onze Mille,Once Mil,Onbir Bin,Одиннадцать тысяч,Jedenastu Tysięcy
-0122,Twelve Thousand,Zwölftausend,Douze Mille,Doce Mil,On İki Bin,Двенадцать тысяч,Dwanaście Tysięcy
-0123,Thirteen Thousand,Dreizehntausend,Treize mille,Trece Mil,Onüç Bin,Тринадцать тысяч,Trzynaście tysięcy
-0124,Fourteen Thousand,Vierzehntausend,Quatorze mille,Catorce Mil,Ondört Bin,Четырнадцать тысяч,Czternaście tysięcy
-0125,Fifteen Thousand,Fünfzehntausend,Quinze Mille,Quince Mil,On Beş Bin,Пятнадцать Тысяч,Piętnaście Tysięcy
-0126,Sixteen Thousand,Sechzehntausend,Seize mille,Dieciseis Mil,Onaltı Bin,Шестнадцать Тысяч,Szesnaście tysięcy
-0127,Seventeen Thousand,Siebzehntausend,Dix-sept mille,Diecisiete Mil,Onyedi Bin,Семнадцать тысяч,Siedemnaście tysięcy
-0128,Eighteen Thousand,Achtzehntausend,Dix-huit mille,Dieciocho Mil,Onsekiz Bin,Восемнадцать тысяч,Osiemnaście tysięcy
-0129,Nineteen Thousand,Neunzehntausend,Dix-neuf mille,Diecinueve Mil,Ondokuz Bin,Девятнадцать тысяч,Dziewiętnaście tysięcy
-0130,Twenty Thousand,Zwanzigtausend,Vingt Mille,Veinte Mil,Yirmi Bin,Двадцать Тысяч,Dwadzieścia Tysięcy
-,,,,,,,
-0131,Smoke On,Rauch an,Smoke On,Smoke On,Açık Duman,Smoke On,Smoke On
-0132,Smoke Off,Rauch aus,Smoke Off,Humo Off,Kapalı Duman,Дым Выкл,Dym Wyłączony
-0133,Crow On,Crow an,Crow,Crow On,Crow Açık,Ворона на,Crow On
-0134,Crow Off,Crow aus,Corbeau Off,Crow Off,Crow Kapalı,Ворона Выкл,Crow Wyłączony
-0135,Engine Off,Motor aus,Arrêt de moteur,Apagado del motor,Motor Kapalı,Двигатель Выкл,Wyłącz silnik
-0136,Flaps 1st Position,Klappen erste Position,Rabats 1ère position,Flaps primera posición,Flepler 1. Pozisyonu,Клапаны 1 Позиция,Klapy 1 miejsce
-0137,Flaps 2nd Position,Klappen zweite Position,Rabats 2ème position,Flaps segunda posición,Flepler 2. Pozisyonu,Клапаны 2-е место,Klapy 2. pozycji
-0138,Flaps 3rd Position,Klappen dritte Position,Rabats 3ème position,Flaps tercera posición,Flepler 3. Pozisyonu,Клапаны 3-й позиции,Klapy 3. miejsce
-0139,,,,,,,
-0140,Flaps Down,Klappen runter,Rabats Bas,Flaps abajo,Aşağı Flepler,Закрылками,Klapy w dół
-0141,,,,,,,
-0142,Full Flaps,Vollständige Klappen,Pleins volets,Flaps completa,Tam Kapaklı,Полный закрылки,Pełne klapy
-0143,,,,,,,
-0144,Flaps Up,Klappen hoch,Volets rentrés,Flaps arriba,Up kanatlar,Закрылки,Klapy w górę
-0145,Flaps 1,Klappen 1,Volets 1,Flaps 1,Flepler 1,Клапаны 1,Klapy 1
-0146,Flaps 2,Klappen 2,2 volets,Flaps 2,Flepler 2,Клапаны 2,Listki 2
-0147,Flaps 1,Klappen 1,Volets 1,Flaps 1,Flepler 1,Клапаны 1,Klapy 1
-0148,Throttle Enabled / Throttle-Cut Inactive,Gas Aktiviert / Gassperre Inaktiv,Throttle Activé / Throttle-Cut Inactif,Throttle Habilitado / Throttle-Cut Inactivo,Throttle / Gaz-Cut İnaktif Etkin,Дроссельной Включено / дроссельной Вырезать Неактивные,Przepustnicy Enabled / Cut Nieaktywne przepustnicy
-0149,Throttle Disabled /Throttle-Cut Active,Gas Deaktiviert / Gassperre Aktiv,Throttle handicapés / Throttle-Cut active,Activo Throttle minusválidos / Cortar Throttle-,Kelebek Engelli / Gaz-Cut Aktif,Дроссельной заслонки Отключено / дроссельной заслонки-Cut Активный,Przepustnicy niepełnosprawnych / Aktywny przepustnicy-Cut
-0150,Landing Gear Up,Fahrwerk hoch,Landing Gear Up,Landing Gear Up,İniş Takımları Up,Шасси До,W górę podwozia
-0151,Landing Gear Down,Fahrwerk runter,Landing Gear Bas,Tren de aterrizaje abajo,İniş Takımları Aşağı,Шасси вниз,Podwozia dół
-0152,Lights On,Lichter an,Lights On,Luces Encendidas,On Işıklar,Огни на,Światła na
-0153,Lights Off,Lichter aus,Lights Off,Luces Apagadas,Kapalı Işıklar,Выключить Свет,Lights Off
-0154,Beacon On,Signalfeuer an,Sur Beacon,En Beacon,Beacon Açık,Маяк на,Beacon Na
-0155,Beacon Off,Signalfeuer aus,Beacon Off,Beacon Off,Beacon Kapalı,Маяк Выкл,Beacon Off
-0156,Strobe On,Stroboskop an,Sur Strobe,Strobe En,Strobe Açık,Строб С,Na stroboskopu
-0157,Strobe Off,Stroboskop aus,Strobe Off,Strobe Off,Kapalı strobe,Strobe Off,Strobe Wyłączony
-0158,Throttle Hold Inactive,Gas Halten Inaktiv,Maintenez Throttle Inactif,Hold Throttle Inactivo,Kelebek Tut İnaktif,Удержания газа Неактивные,Nieaktywne zatrzymaniem przepustnicy
-0159,Throttle Hold Active,Gas Halten Aktiv,Throttle HOLD actif,Throttle Hold Activo,Kelebek Aktif Tut,Держите дроссельной Активный,Aktywny trzymać przepustnicy
-0160,Throttle-Cut Active,Gassperre Aktiv,Throttle-Cut active,Throttle-Cut Activo,Kelebek-Cut Aktif,Дроссельной-Cut Активный,Aktywny przepustnicy-Cut
-0161,Throttle-Cut Inactive,Gassperre Inaktiv,Throttle-Cut Inactif,Throttle-Cut Inactivo,Kelebek-Cut İnaktif,Дроссельной-Cut Неактивные,Nieaktywne przepustnicy-Cut
-0162,Aileron Rate Low,Querruderrate niedrig,Aileron Faible taux,Aileron Baja Tasa,Aileron Oranı Düşük,Элерон низкой скорости,Lotka Cena Niska
-0163,,,,,,,
-0164,Aileron Rate High,Querruderrate hoch,Aileron Taux haut,Aileron Tasa alta,Aileron Oranı Yüksek,Элерон высокая скорость,Lotka Cena Wysoka
-0165,Elevator Rate Low,Höhenruderrate niedrig,Faible taux ascenseur,Ascensor Baja Tasa,Asansör Hızı Düşük,Лифт с низкой скоростью,Winda Cena Niska
-0166,,,,,,,
-0167,Elevator Rate High,Höhenruderrate hoch,Ascenseur Taux haut,Ascensor Tasa alta,Asansör Hızı Yüksek,Лифт с высокой скоростью,Winda Cena Wysoka
-0168,Gear Up,Fahrwerk hoch,Gear Up,Gear Up,Gear Up,Ускорять,Przygotuj się
-0169,Gear Down,Fahrwerk runter,Équipement de Down,Desmultiplicar,Dişli Aşağı,Замедлять,Bieg w dół
-0170,Vario On,Vario an,Sur Vario,En Vario,Vario Açık,Vario На,Na Vario
-0171,Vario Off,Vario aus,Vario Off,Vario Off,Vario Kapalı,Vario Выкл,Vario Wyłączony
-0172,Thermal Mode,Thermal-Modus,Mode thermique,Modo térmica,Termal Mod,Тепловой режим,Tryb termiczny
-0173,Normal Mode,Normal-Modus,Mode Normal,Modo Normal,Normal Mod,Нормальный режим,Tryb Normal
-0174,Landing Mode,Lande-Modus,Mode Landing,Modo Landing,Açılış Modu,Режим Посадка,Tryb Landing
-0175,Acro Mode,Acro Modus,Mode Acro,Modo de Acro,Acro Modu,Режим Acro,Tryb Acro
-0176,Flight Mode 1,Flugmodus 1,Mode Vol 1,Modo Vuelo 1,Uçuş Modu 1,Режим полета 1,Flight Mode 1
-0177,Flight Mode 2,Flugmodus 2,Mode Vol 2,Modo de vuelo 2,Uçuş Modu 2,Режим полета 2,Flight Mode 2
-0178,Flight Mode 3,Flugmodus 3,Mode Vol 3,Modo de vuelo 3,Uçuş Modu 3,Режим полета 3,Flight Mode 3
-0179,Flight Mode 4,Flugmodus 4,Mode Vol 4,Modo de vuelo 4,Uçuş Modu 4,Режим полета 4,Flight Mode 4
-0180,Flight Mode 5,Flugmodus 5,Mode Vol 5,Modo de vuelo 5,Uçuş Modu 5,Режим полета 5,Flight Mode 5
-0181,Flight Mode 6,Flugmodus 6,Mode Vol 6,Modo de vuelo 6,Uçuş Modu 6,Режим полета 6,Flight Mode 6
-0182,Flight Mode 7,Flugmodus 7,Mode Vol 7,Modo de vuelo 7,Uçuş Modu 7,Режим полета 7,Flight Mode 7
-0183,Flight Mode 8,Flugmodus 8,Mode Vol 8,Modo de vuelo 8,Uçuş Modu 8,Режим полета 8,Flight Mode 8
-0184,Acro,Acro,Acro,Acro,Acro,Acro,Acro
-0185,Stabilized,Stabilisiert,Stabilisé,Estabilizado,Stabilize,Стабилизированный,Stabilizowane
-0186,Return to home,Zurück zum Startpunkt,Retour à la maison,Vuelve a casa,Eve geri dön,Вернуться на главную,Powrót do domu
-0187,Loiter,Loiter,Flâner,Holgazanear,Oyalanmak,Слоняться без дела,Marudzić
-0188,Heading Hold,Kurs halten,Maintenez la position,Heading Hold,Başlık Tut,Стабилизация курса,Pozycji HOLD
-0189,Altitude Hold,Höhe halten,Maintien d'altitude,Altitud Hold,Rakım Tut,Высота над уровнем моря Удержание,Wysokość Przytrzymaj
-0190,Position Hold,Position halten,Position attente,Posición Hold,Pozisyon Tut,Позиция удержания,Pozycja Przytrzymaj
-0191,Speed Mode,Hochgeschwindigkeitsmodus,Mode Vitesse,Modo de velocidad,Hız Modu,Скоростной режим,Tryb prędkości
-0192,,,,,,,
-0193,,,,,,,
-0194,,,,,,,
-0195,Automatic Throttle ON,Automatisches Gas an,Automatique Throttle ON,Acelerador automático EN,Otomatik Gaz AÇIK,Автоматическая дроссельной О.Н.,Automatyczna przepustnica ON
-0196,Automatic Throttle OFF,Automatisches Gas aus,Automatique Throttle OFF,Acelerador automático apagado,KAPALI Otomatik Gaz,Автоматическая дроссельной ВЫКЛ,Automatyczna przepustnica OFF
-0197,Data Logging Started,Datenprotokollierung gestartet,Enregistrement des données en route,Registro de datos iniciales,Veri Günlüğü Başladı,Регистрация данных работы,Rozpoczęcie rejestrowania danych
-0198,Data Logging Stopped,Datenprotokollierung gestoppt,Data Logging Stopped,Registro de Datos Detenido,Veri Günlüğü Durduruldu,Регистрация данных остановлена,Rejestracja danych Stopped
-0199,Trainer On,Trainer an,Sur formateur,Entrenador En,Eğitmen Açık,Тренер по,Trener dniu
-0200,Trainer Off,Trainer aus,Entraîneur Off,Entrenador Off,Eğitmen Kapalı,Тренер Выкл,Trener Wyłączony
-,,,,,,,
-0260,Model One,Modell eins,Model One,Modelo Uno,Model One,Модель Один,Model One
-0261,,Flaeimwiel 450,,,,,
-0262,,,,,,,
-0263,,,,,,,
-0264,,,,,,,
-0265,,,,,,,
-0266,,,,,,,
-0267,,,,,,,
-0268,,,,,,,
-0269,,,,,,,
-,,,,,,,
-0400,zero,null,zéro,cero,sıfır,нулю,zero
-0401,one,eins,une,uno,bir,один,jeden
-0402,two,zwei,deux,dos,iki,два,dwa
-0403,three,drei,trois,tres,üç,три,trzy
-0404,four,vier,quatre,cuatro,dört,четыре,cztery
-0405,five,fünf,cinq,cinco,beş,пять,pięć
-0406,six,sechs,six,seis,altı,шесть,sześć
-0407,seven,sieben,Sept,Siete,yedi,Семь,siedem
-0408,eight,acht,huit,ocho,sekiz,восемь,osiem
-0409,nine,neun,neuf,nueve,dokuz,девять,dziewięć
-0410,ten,zehn,dix,diez,on,десять,dziesięć
-0411,eleven,elf,onze,once,on bir,одиннадцать,jedenaście
-0412,twelve,zwölf,douze,doce,oniki,двенадцать,dwanaście
-0413,thirteen,dreizehn,treize,trece,on üç,тринадцать,trzynaście
-0414,fourteen,vierzehn,quatorze,catorce,on dört,четырнадцать,czternaście
-0415,fifteen,funfzehn,quinze,quince,onbeş,пятнадцать,piętnaście
-0416,sixteen,sechszehn,seize,dieciséis,on altı,шестнадцать,szesnaście
-0417,seventeen,siebzehn,dix-sept,diecisiete,on yedi,семнадцать,siedemnaście
-0418,eighteen,achtzehn,dix-huit,dieciocho,onsekiz,восемнадцать,osiemnaście
-0419,nineteen,neunzehn,dix-neuf,diecinueve,on dokuz,девятнадцать,dziewiętnaście
-0420,twenty,zwanzig,vingt,veinte,yirmi,двадцать,dwadzieścia
-0421,twenty one,einundzwanzig,vingt et un,veintiuno,yirmi bir,двадцать один,dwadzieścia jeden
-0422,twenty two,zweiundzwanzig,vingt-deux,Veintidós,yirmi iki,двадцать два,dwadzieścia dwa
-0423,twenty three,dreiundzwanzig,vingt-trois,veintitrés,yirmiüç,двадцать три,dwadzieścia trzy
-0424,twenty four,vierundzwanzig,vingt-quatre,veinticuatro,yirmidört,двадцать четыре,dwadzieścia cztery
-0425,twenty five,fünfundzwanzig,vingt cinq,Veinticinco,yirmi beş,двадцать пять,dwadzieścia pięć
-0426,twenty six,sechsundzwanzig,vingt-six,veintiseis,yirmi altı,двадцать шесть,dwadzieścia sześć
-0427,twenty seven,siebenundzwanzig,vingt-sept,veintisiete,yirmi yedi,двадцать семь,dwadzieścia siedem
-0428,twenty eight,achtundzwanzig,vingt-huit,veintiocho,yirmi sekiz,двадцать восемь,dwadzieścia osiem
-0429,twenty nine,neunundzwanzig,vingt-neuf,veintinueve,yirmi dokuz,двадцать девять,dwadzieścia dziewięć
-0430,thirty,dreißig,trente,treinta,otuz,тридцать,trzydzieści
-0431,thirty one,einunddreißig,trente et un,treinta y uno,otuz bir,тридцать один,trzydzieści jeden
-0432,thirty two,zweiunddreißig,trente deux,treinta y dos,otuz iki,тридцать два,trzydzieści dwa
-0433,thirty three,dreiunddreißig,trente-trois,treinta y tres,otuz üç,тридцать три,trzydzieści trzy
-0434,thirty four,vierunddreißig,trente-quatre,treinta y cuatro,otuz dört,тридцать четыре,trzydzieści cztery
-0435,thirty five,fünfunddreißig,trente cinq,treinta cinco,otuzbeş,тридцать пять,trzydzieści pięć
-0436,thirty six,sechsunddreißig,trente-six,treinta seis,otuz altı,тридцать шесть,trzydzieści sześć
-0437,thirty seven,siebenunddreißig,trente sept,treinta y siete,otuz yedi,тридцать семь,trzydzieści siedem
-0438,thirty eight,achtunddreißig,trente-huit,treinta y ocho,otuz sekiz,тридцать восемь,trzydzieści osiem
-0439,thirty nine,neununddreißig,trente neuf,treinta y nueve,otuz dokuz,тридцать девять,trzydzieści dziewięć
-0440,forty,vierzig,quarante,cuarenta,kırk,сорок,czterdzieści
-0441,forty one,einundvierzig,quarante et un,cuarenta y uno,kırk bir,сорок один,czterdzieści jeden
-0442,forty two,zweiundvierzig,quarante-deux,cuarenta y dos,kırk iki,сорок два,czterdzieści dwa
-0443,forty three,dreiundvierzig,quarante trois,cuarenta y tres,kırk üç,сорок три,czterdzieści trzy
-0444,forty four,vierundvierzig,quarante quatre,cuarenta y cuatro,kırkdört,сорок четыре,czterdzieści cztery
-0445,forty five,fünfundvierzig,quarante-cinq,Cuarenta y cinco,kırkbeş,сорок пять,czterdzieści pięć
-0446,forty six,sechsundvierzig,quarante-six,cuarenta y seis,kırk altı,сорок шесть,czterdzieści sześć
-0447,forty seven,siebenundvierzig,quarante-sept,cuarenta y siete,kırk yedi,сорок семь,czterdzieści siedem
-0448,forty eight,achtundvierzig,quarante huit,cuarenta y ocho,kırk sekiz,сорок восемь,czterdzieści osiem
-0449,forty nine,neunundvierzig,quarante-neuf,cuarenta y nueve,kırk dokuz,сорок девять,czterdzieści dziewięć
-0450,fifty,funfzig,cinquante,cincuenta,elli,пятьдесят,pięćdziesiąt
-0451,fifty one,einundfunfzig,cinquante et un,cincuenta uno,elli bir,пятьдесят один,pięćdziesiąt jeden
-0452,fifty two,zweiundfunfzig,cinquante-deux,cincuenta y dos,elli iki,пятьдесят два,pięćdziesiąt dwa
-0453,fifty three,dreiundfunfzig,cinquante trois,cincuenta y tres,elli üç,пятьдесят три,pięćdziesiąt trzy
-0454,fifty four,vierundfunfzig,cinquante quatre,cincuenta y cuatro,elli dört,пятьдесят четыре,pięćdziesiąt cztery
-0455,fifty five,fünfundfunfzig,cinquante-cinq,cincuenta y cinco,elli beş,пятьдесят пять,pięćdziesiąt pięć
-0456,fifty six,sechsundfunfzig,cinquante six,cincuenta y seis,elli altı,пятьдесят шесть,pięćdziesiąt sześć
-0457,fifty seven,siebenundfunfzig,cinquante sept,cincuenta y siete,elli yedi,пятьдесят семь,pięćdziesiąt siedem
-0458,fifty eight,achtundfunfzig,cinquante huit,cincuenta y ocho,elli sekiz,пятьдесят восемь,pięćdziesiąt osiem
-0459,fifty nine,neunundfunfzig,cinquante neuf,cincuenta y nueve,elli dokuz,пятьдесят девять,pięćdziesiąt dziewięć
-0460,sixty,sechzig,soixante,sesenta,altmış,шестьдесят,sześćdziesiąt
-0461,sixty one,einundsechzig,soixante-et-un,sesenta y uno,altmışbir,шестьдесят один,sześćdziesiąt jeden
-0462,sixty two,zweiundsechzig,soixante-deux,sesenta y dos,altmış iki,шестьдесят два,sześćdziesiąt dwa
-0463,sixty three,dreiundsechzig,soixante trois,sesenta y tres,altmış üç,шестьдесят три,sześćdziesiąt trzy
-0464,sixty four,vierundsechzig,soixante-quatre,sesenta y cuatro,altmış dört,шестьдесят четыре,sześćdziesiąt cztery
-0465,sixty five,fünfundsechzig,soixante-cinq,sesenta y cinco,altmış beş,шестьдесят пять,sześćdziesiąt pięć
-0466,sixty six,sechsundsechzig,soixante six,sesenta y seis,altmış altı,шестьдесят шесть,sześćdziesiąt sześć
-0467,sixty seven,siebenundsechzig,soixante-sept,sesenta y siete,altmış yedi,шестьдесят семь,sześćdziesiąt siedem
-0468,sixty eight,achtundsechzig,soixante-huit,sesenta y ocho,altmış sekiz,шестьдесят восемь,sześćdziesiąt osiem
-0469,sixty nine,neunundsechzig,soixante neuf,sesenta y nueve,altmışdokuz,шестьдесят девять,sześćdziesiąt dziewięć
-0470,seventy,siebzig,soixante-dix,setenta,yetmiş,семьдесят,siedemdziesiąt
-0471,seventy one,einundsiebzig,soixante et onze,setenta y uno,yetmiş bir,семьдесят один,siedemdziesiąt jeden
-0472,seventy two,zweiundsiebzig,soixante-douze,setenta y dos,yetmiş iki,семьдесят два,siedemdziesiąt dwa
-0473,seventy three,dreiundsiebzig,soixante-treize,setenta y tres,yetmiş üç,семьдесят три,siedemdziesiąt trzy
-0474,seventy four,vierundsiebzig,soixante quatorze,setenta y cuatro,yetmiş dört,семьдесят четыре,siedemdziesiąt cztery
-0475,seventy five,fünfundsiebzig,soixante-cinq,setenta y cinco,yetmiş beş,семьдесят пять,siedemdziesiąt pięć
-0476,seventy six,sechsundsiebzig,soixante seize,setenta y seis,yetmiş altı,семьдесят шесть,siedemdziesiąt sześć
-0477,seventy seven,siebenundsiebzig,soixante-dix sept,setenta y siete,yetmiş yedi,семьдесят семь,siedemdziesiąt siedem
-0478,seventy eight,achtundsiebzig,soixante dix huit,setenta y ocho,yetmiş sekiz,семьдесят восемь,siedemdziesiąt osiem
-0479,seventy nine,neunundsiebzig,soixante-dix-neuf,setenta y nueve,yetmiş dokuz,семьдесят девять,siedemdziesiąt dziewięć
-0480,eighty,achtzig,quatre-vingts,ochenta,seksen,восемьдесят,osiemdziesiąt
-0481,eighty one,einundachtzig,quatre-vingt-un,ochenta y uno,seksen bir,восемьдесят один,osiemdziesiąt jeden
-0482,eighty two,zweiundachtzig,quatre-vingt deux,ochenta y dos,82,восемьдесят два,osiemdziesiąt dwa
-0483,eighty three,dreiundachtzig,quatre vingt trois,ochenta y tres,elli üç,восемьдесят три,osiemdziesiąt trzy
-0484,eighty four,vierundachtzig,quatre-vingt-quatre,ochenta y cuatro,seksen dört,восемьдесят четыре,osiemdziesiąt cztery
-0485,eighty five,fünfundachtzig,quatre-vingt-cinq,ochenta y cinco,seksen beş,восемьдесят пять,osiemdziesiąt pięć
-0486,eighty six,sechsundachtzig,quatre-vingt-six,ochenta y seis,seksen altı,восемьдесят шесть,osiemdziesiąt sześć
-0487,eighty seven,siebenundachtzig,quatre-vingt sept,ochenta y siete,seksen yedi,восемьдесят семь,osiemdziesiąt siedem
-0488,eighty eight,achtundachtzig,quatre vingt huit,ochenta y ocho,seksen sekiz,восемьдесят восемь,osiemdziesiąt osiem
-0489,eighty nine,neunundachtzig,quatre vingt neuf,ochenta y nueve,Eighty Nine,восемьдесят девять,osiemdziesiąt dziewięć
-0490,ninety,neunzig,quatre-vingt-,noventa,doksan,девяносто,dziewięćdziesiąt
-0491,ninety one,einundneunzig,quatre vingt onze,noventa y uno,doksan bir,девяносто один,dziewięćdziesiąt jeden
-0492,ninety two,zweiundneunzig,quatre-vingt douze,noventa y dos,doksan iki,девяносто два,dziewięćdziesiąt dwa
-0493,ninety three,dreiundneunzig,quatre-vingt treize,noventa y tres,doksan üç,девяносто три,dziewięćdziesiąt trzy
-0494,ninety four,vierundneunzig,quatre-vingt quatorze,noventa y cuatro,doksan dört,девяносто четыре,dziewięćdziesiąt cztery
-0495,ninety five,fünfundneunzig,quatre vingt quinze,noventa y cinco,doksan beş,девяносто пять,dziewięćdziesiąt pięć
-0496,ninety six,sechsundneunzig,quatre vingt seize,noventa y seis,doksan altı,девяносто шесть,dziewięćdziesiąt sześć
-0497,ninety seven,siebenundneunzig,quatre-vingt-dix-sept,noventa y siete,doksan yedi,девяносто семь,dziewięćdziesiąt siedem
-0498,ninety eight,achtundneunzig,quatre-vingt dix-huit,noventa y ocho,doksan sekiz,девяносто восемь,dziewięćdziesiąt osiem
-0499,ninety nine,neunundneunzig,quatre-vingt-dix-neuf,noventa y nueve,doksan dokuz,девяносто девять,dziewięćdziesiąt dziewięć
+# Language,English,German,French,Spanish,Turkish,Russian,Polish,Danish,Dutch,Japanese,Italian,Czech
+:key,en_GB,de_DE,fr_FR,es_ES,tr_TR,ru_RU,pl_PL,da_DK,nl_NL,ja_JP,it_IT,cs_CZ
+:voice,Daniel,Markus,Thomas,Monica,Yelda,Milena,Zosia,Sara,Xander,Kyoko,Alice,Zuzana
+0000,Zero,Null,Zéro,Cero,Sıfır,Нулю,Zero,Zero,Nul,ゼロ,Zero,Nula
+0001,One,Eins,Une,Uno,Bir,Один,Jeden,En,Één,One,Uno,Jeden
+0002,Two,Zwei,Deux,Dos,Iki,Два,Dwa,To,Twee,二つ,Due,Dvě
+0003,Three,Drei,Trois,Tres,Üç,Три,Trzy,Tre,Drie,3,Tre,Tři
+0004,Four,Vier,Quatre,Cuatro,Dört,Четыре,Cztery,Fire,Vier,4,Quattro,Čtyři
+0005,Five,Fünf,Cinq,Cinco,Beş,Пять,Pięć,Fem,Vijf,5,Cinque,Pět
+0006,Point Zero,Komma null,Point zéro,Punto Cero,Point Zero,Нулевая Точка,Punkt Zero,Punkt Zero,Point Zero,ポイントゼロ,Punto Zero,Point Zero
+0007,Point one,Komma eins,Un point,Punto uno,Nokta bir,Пункт первый,Jeden punkt,Punkt ét,Punt één,ポイント1,Punto primo,Point One
+0008,Point two,Komma zwei,Le deuxième point,Punto dos,Nokta iki,Второй пункт,Punkt dwóch,Punkt to,Punt twee,ポイント2,Punto due,Point Two
+0009,Point three,Komma drei,Troisième point,Punto tres,Nokta üç,Точка три,Punkt trzeci,Punkt tre,Punt drie,ポイント3,Punto tre,Point Three
+0010,Point four,Komma vier,Le quatrième point,El punto cuatro,Nokta dört,Четвертый пункт,Punkt cztery,Punkt fire,Punt vier,ポイント4,Punto quattro,Point Čtyři
+0011,Point five,Komma fünf,Virgule cinq,El punto cinco,Nokta beş,Точка пять,Punkt pięć,Punkt fem,Punt vijf,ポイント5,Punto cinque,Point Five
+0012,Point six,Komma sechs,Virgule six,Punto de seis,Nokta altı,Точка шесть,Punkt sześć,Punkt seks,Punt zes,ポイント6,Punto sei,Bod šest
+0013,Point seven,Komma sieben,Point de sept,Punto de siete,Nokta yedi,Точка семь,Punkt siedem,Punkt syv,Point zeven,ポイント7,Punto sette,Point Seven
+0014,Point eight,Komma acht,Point de huit,Punto de ocho,Nokta sekiz,Точка восемь,Punkt osiem,Punkt otte,Point acht,点8,Punto otto,Point Osm
+0015,Point nine,Komma neun,Virgule neuf,Punto de nueve,Nokta dokuz,Точка девять,Punkt dziewięć,Punkt ni,Punt negen,ポイント9,Punto nove,Point Devět
+0021,Warning,Warnung,Avertissement,Advertencia,Uyarı,Предупреждение,Ostrzeżenie,Advarsel,Waarschuwing,警告,Avvertimento,Výstraha
+0022,Error,Fehler,Erreur,Error,Hata,Ошибка,Błąd,Fejl,Fout,エラー,Errore,Chyba
+0023,Alert,Alarm,Alerte,Alerta,Uyanık,Тревога,Czujny,Alert,Alarm,アラート,Allarme,Bdělý
+0024,Feet,Fuß,Pieds,Pies,Ayaklar,Ноги,Stopy,Feet,Voeten,フィート,Piedi,Feet
+0025,Foot,Fuß,Pied,Pie,Ayak,Фут,Stopa,Foot,Voet,フット,Piede,Noha
+0026,Minus ,Minus,Moins,Menos,Eksi,Минус,Minus,Minus,Minus,マイナス,Meno,Bez
+0027,,,,,,,,,,,,
+0028,Welcome. Have a nice flight!,Willkommen. Viel Spaß beim Fliegen und denke dran: Arbeitsschutz geht uns alle an!,Bienvenue. Avoir un bon vol!,Bienvenido. Tener un buen vuelo!,Hoşgeldiniz. Güzel bir uçuş var!,Добро пожаловать. имеют приятный полет!,Witamy. Miłego lotu!,Velkommen. Hav en dejlig flyvning!,Welkom. Heb een aardige vlucht!,ようこそ。素敵な飛行を持っています！,Benvenuto. Avere un bel volo!,Vítej. Přejeme Vám příjemný let!
+0029,Limit,Limit,Limite,Límite,Limit,Предел,Limit,Grænse,Limiet,リミット,Limite,Limit
+0030,RPM,Umdrehungen pro Minute,RPM,RPM,RPM,RPM,RPM,RPM,RPM,RPM,RPM,RPM
+0031,Flight Battery Low,Flugbatterie leer,Vol de batterie faible,Vuelo de batería baja,Uçuş Pil Düşük,Полет Низкий заряд батареи,Lot Battery Low,Flight Battery Low,Flight Battery Low,フライトバッテリー·ロウ,Volo Batteria scarica,Flight Battery Low
+0032,Radio Voltage,Senderspannung,Radio Voltage,Radio Voltaje,Radyo Gerilim,Радио Напряжение,Radio napięcia,Radio Spænding,Radio Voltage,ラジオ電圧,Radio Voltaggio,Radio Napětí
+0033,Current,Strom,Courant,Corriente,Şimdiki,Ток,Prąd,Nuværende,Stroom,現在,Corrente,Proud
+0034,Altitudet,Höhe,Altitudet,Altitudet,Altitudet,Altitudet,Altitudet,Altitudet,Altitudet,Altitudet,Altitudet,Altitudet
+0035,Point,Punkt,Point,Punto,Nokta,Точка,Punkt,Punkt,Punt,ポイント,Punto,Bod
+0036,Volts,Volt,Volts,Voltios,Volt,Вольт,V,Volt,Volt,ボルト,Volt,Voltů
+0037,Volt,Volt,Volt,Voltio,Volt,Вольт,Wolt,Volt,Volt,ボルト,Volt,Volt
+0038,Minutes,Minuten,Procès-verbal,Acta,Dakika,Минут,Protokół,Minutter,Notulen,分,Verbale,Zápis
+0039,Minute,Minute,Minute,Minuto,Dakika,Минут,Minuta,Minut,Minuut,分,Minuto,Minuta
+0040,Pack Voltage,Packspannung,Pack de tension,Paquete de Voltaje,Paketi Gerilim,Пакет Напряжение,Paczka napięcia,Pack Spænding,Pack Voltage,パック電圧,Pacchetto di tensione,Balení Napětí
+0041,30 Seconds,30 Sekunden,30 secondes,30 Segundos,30 Saniye,30 секунд,30 Seconds,30 Seconds,30 Seconds,30秒,30 Seconds,30 Seconds
+0042,20 Seconds,20 Sekunden,20 secondes,20 segundos,20 Saniye,20 секунд,20 Sekund,20 sekunder,20 Seconden,20秒,20 Secondi,20 Seconds
+0043,10 Seconds,10 Sekunden,10 secondes,10 segundos,10 Saniye,10 секунд,10 Sekund,10 Seconds,10 Seconds,10秒,10 secondi,10 Seconds
+0044,Percent,Prozent,Pour cent,Por ciento,Yüzde,Процентов,Procent,Procent,Procent,パーセント,Percentuale,Procento
+0045,Inactivity Alarm,Inaktivitätsalarm,Inactivité alarme,Inactividad de Alarma,Hareketsizlik Alarmı,Бездействие сигнализации,Alarm nieaktywności,Inaktivitet Alarm,Inactiviteit Alarm,非アクティブ時のアラーム,Inattività allarme,Nečinnost Alarm
+0046,Radio Battery Low,Senderbatterie leer,Radio batterie faible,Radio de batería baja,Radyo Battery Low,Радио Низкий заряд батареи,Radio Battery Low,Radio Battery Low,Radio Battery Low,ラジオバッテリー·ロウ,Radio Batteria scarica,Radio Battery Low
+0047,Degrees,Grad,Degrees,Grados,Dereceler,Степени,Stopni,Grader,Degrees,度,Gradi,Stupně
+0048,Degree,Grad,Degré,Grado,Derece,Степень,Stopień,Degree,Graad,度,Laurea,Stupeň
+0049,Receiver Voltage,Empfängerspannung,Récepteur Tension,Receptor Voltaje,Alıcı Gerilim,Приемник Напряжение,Odbiornik Napięcie,Modtager Spænding,Receiver Voltage,レシーバ電圧,Ricevitore Tensione,Přijímač Napětí
+0050,Temperature,Temperatur,Température,Temperatura,Sıcaklık,Температура,Temperatura,Temperatur,Temperatuur,温度,Temperatura,Teplota
+0051,Amps,Amper,Amps,Amps,Amper,Усилители,Wzmacniacze,Ampere,Amps,アンプ,Amps,Zesilovače
+0052,Amp,Amper,Amp,Amperio,Amper,Ампер,Amp,Amp,Amp,アンプ,Amp,Amp
+0053,Seconds,Sekunden,Secondes,Segundos,Saniye,Секунд,Sekundy,Sekunder,Seconden,秒,Secondi,Sekundy
+0054,Second,Sekunde,Deuxième,Segundo,Ikinci,Второй,Drugi,Andet,Tweede,2番目,Secondo,Druhý
+0055,DB,DB,DB,DB,DB,База данных,DB,DB,DB,DB,DB,DB
+0056,Meters,Meter,Mètres,Metros,Metre,Метры,Metrów,Målere,Meters,メーター,Metri,Měřiče
+0057,Meter,Meter,Mètre,Metro,Metre,Метр,Metr,Meter,Meter,メーター,Metro,Metr
+0058,No Telemetry,Keine Telemetrie,Pas de télémétrie,No Telemetría,Hiçbir Telemetri,Нет телеметрии,Nie Telemetria,Ingen Telemetri,Geen Telemetrie,いいえテレメトリありません,No Telemetria,No Telemetrie
+0059,Receiver Voltage Low,Empfängerspannung niedrig,Récepteur basse tension,Receptor de Baja Tensión,Alıcı Gerilim Düşük,Приемник Низкое напряжение,Odbiornik Low Voltage,Modtager Voltage Low,Receiver Low Voltage,受信機電圧低,Ricevitore bassa tensione,Přijímač Napětí Low
+0060,Temperature Warning,Temperaturwarnung,Avertissement de température,Temperatura Advertencia,Sıcaklık Uyarısı,Температура Предупреждение,Ostrzeżenie temperatury,Temperatur Advarsel,Temperatuur Waarschuwing,温度警告,Temperatura Warning,Teplota Varování
+0061,Altitude Warning,Höhenwarning,Altitude Avertissement,Altitud Advertencia,Rakım Uyarı,Высота над уровнем моря Предупреждение,Wysokość Ostrzeżenie,Altitude Warning,Altitude Warning,標高警告,Altitude Warning,Altitude Warning
+0062,Watt,Watt,Watt,Vatio,Vat,Ватт,Wat,Watt,Watt,ワット,Watt,Watt
+0063,Watts,Watt,Watts,Watts,Watts,Вт,Watts,Watt,Watts,ワッツ,Watts,Watts
+0064,Knot,Knoten,Nœud,Nudo,Düğüm,Узел,Węzeł,Knot,Knoop,結び目,Nodo,Uzel
+0065,Knots,Knoten,Knots,Nudos,Knot,Узлы,Węzły,Knuder,Knopen,ノット,Nodi,Uzly
+0066,Milliamp,Milliamper,Milliamp,Miliamperios,Miliamper,Миллиампер,Prądowego,Milliampere,Milliamp,ミリアン​​ペア,Milliamp,Milliamp
+0067,Milliamps,Milliamper,Milliamps,Miliamperios,Miliamper,Миллиампер,MA,Milliampere,Milliampère,ミリアン​​ペア,Milliampere,MA
+0068,Milliamp/Hour,Milliamper pro Stunde,Milliampères / heure,Miliamperios / hora,Miliamper / saat,Миллиампер / час,Prądowego / godzina,Milliampere / Hour,MA / Hour,ミリアン​​ペア/時間,Milliampere / ora,Milliamp / hod
+0069,Milliamps/Hour,Milliamper pro Stunde,Milliampères / heure,Miliamperios / hora,Miliamper / saat,Миллиампер / час,MA / dobę,Milliampere / Hour,Milliampère / Hour,ミリアン​​ペア/時間,Milliampere / ora,MA / hod
+0070,RSSI Alert/RF signal low,Funksignal schwach,Alerte RSSI / signal de faible RF,RSSI Alerta / señal de RF de baja,RSSI Uyarısı / düşük RF sinyali,ПУПС оповещения / ВЧ сигнал низкого,RSSI Alert / niski sygnał RF,RSSI Alert / RF-signal lav,RSSI Alert / RF-signaal laag,低RSSIアラート/ RF信号,RSSI Alert / segnale RF a basso,RSSI Alert / RF signálu nízká
+0071,RF Signal Critical,Funksignal kritisch,RF Signal critique,RF de señal crítico,RF Sinyal Kritik,РФ сигнала Критическая,Krytyczne sygnału RF,RF Signal Kritisk,RF Signaal Kritische,RF信号クリティカル,RF Signal Critical,RF signál Kritický
+0072,Receiver signal lost,Funksignal verloren,Signal de réception perdu,Señal del receptor pierde,Alıcı sinyali kaybolduğunda,Потеряли приемник сигнала,Stracił sygnał zwrotny,Modtager signal tabt,Ontvanger signaal verloren,受信機の信号が失われました,Segnale di ricezione perso,Přijímač Signal Lost
+0073,Batt Capacity Warning,Batteriekapazitätswarnung,Batt Capacité Avertissement,Batt capacidad de alerta,Batt Kapasite Uyarısı,Батт Емкость Внимание,Batt Pojemność Ostrzeżenie,Batt Kapacitet Advarsel,Batt Capacity Warning,バット容量警告,Batt Capacità Warning,Batt Kapacita Upozornění
+0074,,,,,,,,,,,,
+0075,,,,,,,,,,,,
+0076,,,,,,,,,,,,
+0077,,,,,,,,,,,,
+0078,,,,,,,,,,,,
+0079,,,,,,,,,,,,
+0080,,,,,,,,,,,,
+0081,,,,,,,,,,,,
+0082,,,,,,,,,,,,
+0083,,,,,,,,,,,,
+0084,,,,,,,,,,,,
+0085,,,,,,,,,,,,
+0086,,,,,,,,,,,,
+0087,,,,,,,,,,,,
+0088,,,,,,,,,,,,
+0089,,,,,,,,,,,,
+0090,,,,,,,,,,,,
+0091,,,,,,,,,,,,
+0092,,,,,,,,,,,,
+0093,,,,,,,,,,,,
+0094,,,,,,,,,,,,
+0095,,,,,,,,,,,,
+0096,,,,,,,,,,,,
+0097,,,,,,,,,,,,
+0098,,,,,,,,,,,,
+0099,,,,,,,,,,,,
+,,,,,,,,,,,,
+0100,Hundred,Hundert,Cent,Cien,Yüz,Сто,Sto,Hundred,Honderdtal,百,Cento,Sto
+,,,,,,,,,,,,
+0101,One Hundred,Einhundert,Cent,Cien,Yüz,Сто,Sto,One Hundred,Honderd,ワンハンドレッド,Cento,Sto
+0102,Two Hundred,Zweihundert,Deux Cent,Doscientos,Iki yüz,Двести,Dwieście,To Hundred,Tweehonderd,二百,Duecento,Dvě Stě
+0103,Three Hundred,Dreihundert,Trois Cents,Trescientos,Üç Yüz,Триста,Trzysta,Tre Hundred,Driehonderd,三百,Trecento,Tři Sta
+0104,Four Hundred,Vierhundert,Quatre Cents,Cuatrocientos,Dört Yüz,Четыре Сотни,Czterysta,Fire hundrede,Vierhonderd,四百,Quattrocento,Čtyři Sta
+0105,Five Hundred,Fünfhundert,Cinq-Cents,Quinientos,Beş Yüz,Пятьсот,Pięćset,Five Hundred,Vijfhonderd,ファイブハンドレッド,Cinquecento,Pět Set
+0106,Six Hundred,Sechshundert,Six Cents,Seiscientos,Altı Yüz,Шестьсот,Sześćset,Seks Hundred,Zeshonderd,六百,Seicento,Šest Set
+0107,Seven Hundred,Siebenhundert,Sept Cent,Setecientos,Yediyüz,Семьсот,Siedemset,Seven Hundred,Zevenhonderd,セブンハンドレッド,Settecento,Sedm Set
+0108,Eight Hundred,Achthundert,Huit Cent,Ochocientos,Sekiz Yüz,Восемьсот,Osiemset,Otte Hundred,Achthonderd,八百,Ottocento,Osm Set
+0109,Nine Hundred,Neunhundert,Neuf Cent,Novecientos,Dokuz Yüz,Девятьсот,Dziewięćset,Nine Hundred,Negen Honderd,九百,Novecento,Devět Set
+,,,,,,,,,,,,
+0110,Thousand,Tausend,Mille,Mil,Bin,Тысяча,Tysiąc,Thousand,Duizend,1000,Migliaia,Tisíc
+,,,,,,,,,,,,
+0111,One Thousand,Eintausend,Mille,Mil,Bin,Тысяча,Tysiąc,Et Thousand,Duizend,1000,Mille,Tisíc
+0112,Two Thousand,Zweitausend,Deux Mille,Dos Mil,İki Bin,Две Тысячи,Dwa Tysiące,To Thousand,Tweeduizend,二千,Duemila,Dva Tisíce
+0113,Three Thousand,Dreitausend,Trois Mille,Tres Mil,Üç Bin,Три Тысячи,Trzy Tysiące,Tre Thousand,Drie Duizend,三千,Trecento,Tři Tisíce
+0114,Four Thousand,Viertausend,Quatre Mille,Cuatro Mil,Dört Bin,Четыре Тысячи,Cztery tysiące,Fire Thousand,Vierduizend,四千,Quattro Mila,Čtyři tisíce
+0115,Five Thousand,Fünftausend,Cinq Mille,Cinco Mil,Beş Bin,Пять Тысяч,Pięć Tysięcy,Fem Thousand,Vijfduizend,五千,Cinquemila,Pět Tisíc
+0116,Six Thousand,Sechstausend,Six Milles,Seis Mil,Altı Bin,Шесть Тысяч,Sześć tysięcy,Seks Thousand,Zesduizend,六千,Six Thousand,Šest tisíc
+0117,Seven Thousand,Siebentausend,Sept Mille,Siete Mil,Yedi Bin,Семь Тысяч,Siedem Tysięcy,Syv Thousand,Zevenduizend,セブンサウザンド,Settemila,Sedm tisíc
+0118,Eight Thousand,Achttausend,Huit Mille,Ocho Mil,Sekiz Bin,Восемь Тысяч,Osiem Tysięcy,Otte Thousand,Achtduizend,八千,Ottomila,Osm tisíc
+0119,Nine Thousand,Neuntausend,Neuf Mille,Nueve Mil,Dokuz Bin,Девять Тысяч,Dziewięć Tysięcy,Nine Thousand,Negenduizend,9000,Novemila,Devět tisíc
+,,,,,,,,,,,,
+0120,Ten Thousand,Zehntausend,Dix Mille,Diez Mil,On Bin,Десять Тысяч,Dziesięć Tysięcy,Ten Thousand,Tien Duizend,テンサウザンド,Diecimila,Deset Tisíc
+0121,Eleven Thousand,Elftausend,Onze Mille,Once Mil,Onbir Bin,Одиннадцать тысяч,Jedenastu Tysięcy,Eleven Thousand,Elfduizend,イレブン千,Undicimila,Jedenáct tisíc
+0122,Twelve Thousand,Zwölftausend,Douze Mille,Doce Mil,On İki Bin,Двенадцать тысяч,Dwanaście Tysięcy,Twelve Thousand,Twaalf Duizend,一万二千,Dodicimila,Dvanáct tisíc
+0123,Thirteen Thousand,Dreizehntausend,Treize mille,Trece Mil,Onüç Bin,Тринадцать тысяч,Trzynaście tysięcy,Tretten Thousand,Dertienduizend,サーティーン千,Tredicimila,Třináct tisíc
+0124,Fourteen Thousand,Vierzehntausend,Quatorze mille,Catorce Mil,Ondört Bin,Четырнадцать тысяч,Czternaście tysięcy,Fjorten Thousand,Veertienduizend,フォーティーン千,Quattordicimila,Čtrnáct tisíc
+0125,Fifteen Thousand,Fünfzehntausend,Quinze Mille,Quince Mil,On Beş Bin,Пятнадцать Тысяч,Piętnaście Tysięcy,Femten Thousand,Vijftienduizend,フィフティーン千,Quindicimila,Patnáct tisíc
+0126,Sixteen Thousand,Sechzehntausend,Seize mille,Dieciseis Mil,Onaltı Bin,Шестнадцать Тысяч,Szesnaście tysięcy,Seksten Thousand,Zestien Duizend,シックスティーン千,Sedicimila,Šestnáct tisíc
+0127,Seventeen Thousand,Siebzehntausend,Dix-sept mille,Diecisiete Mil,Onyedi Bin,Семнадцать тысяч,Siedemnaście tysięcy,Seventeen Thousand,Zeventienduizend,セブンティーン千,Diciassettemila,Sedmnáct tisíc
+0128,Eighteen Thousand,Achtzehntausend,Dix-huit mille,Dieciocho Mil,Onsekiz Bin,Восемнадцать тысяч,Osiemnaście tysięcy,Atten Thousand,Achttienduizend,一万八千,Diciottomila,Osmnáct tisíc
+0129,Nineteen Thousand,Neunzehntausend,Dix-neuf mille,Diecinueve Mil,Ondokuz Bin,Девятнадцать тысяч,Dziewiętnaście tysięcy,Nineteen Thousand,Negentien Duizend,十九千,Diciannove Mille,Devatenáct tisíc
+0130,Twenty Thousand,Zwanzigtausend,Vingt Mille,Veinte Mil,Yirmi Bin,Двадцать Тысяч,Dwadzieścia Tysięcy,Tyve Thousand,Twintig Duizend,20000,Ventimila,Dvacet tisíc
+,,,,,,,,,,,,
+0131,Smoke On,Rauch an,Smoke On,Smoke On,Açık Duman,Smoke On,Smoke On,Røg On,Smoke On,オン煙,Smoke On,Smoke On
+0132,Smoke Off,Rauch aus,Smoke Off,Humo Off,Kapalı Duman,Дым Выкл,Dym Wyłączony,Røg Off,Rook Uit,オフスモーク,Smoke Off,Kouř Off
+0133,Crow On,Crow an,Crow,Crow On,Crow Açık,Ворона на,Crow On,Crow On,Kraai op,クロウオン,Crow On,Crow On
+0134,Crow Off,Crow aus,Corbeau Off,Crow Off,Crow Kapalı,Ворона Выкл,Crow Wyłączony,Crow Off,Kraai Off,クロウオフ,Crow Off,Crow Off
+0135,Engine Off,Motor aus,Arrêt de moteur,Apagado del motor,Motor Kapalı,Двигатель Выкл,Wyłącz silnik,Engine Off,Engine Off,エンジンオフ,Motore Off,Off Engine
+0136,Flaps 1st Position,Klappen erste Position,Rabats 1ère position,Flaps primera posición,Flepler 1. Pozisyonu,Клапаны 1 Позиция,Klapy 1 miejsce,Flaps 1st Position,Kleppen 1 Positie,フラップ1位,Flap 1 ° classificato,Klapky 1. Pozice
+0137,Flaps 2nd Position,Klappen zweite Position,Rabats 2ème position,Flaps segunda posición,Flepler 2. Pozisyonu,Клапаны 2-е место,Klapy 2. pozycji,Flaps 2. Position,Kleppen 2e Positie,フラップ2位,Flaps 2 ° posizione,Klapky 2.místo
+0138,Flaps 3rd Position,Klappen dritte Position,Rabats 3ème position,Flaps tercera posición,Flepler 3. Pozisyonu,Клапаны 3-й позиции,Klapy 3. miejsce,Flaps 3. Position,Flappen 3 Positie,フラップ3位,Flaps 3a posizione,Klapky 3. místo
+0139,,,,,,,,,,,,
+0140,Flaps Down,Klappen runter,Rabats Bas,Flaps abajo,Aşağı Flepler,Закрылками,Klapy w dół,Flaps Down,Kleppen omlaag,ダウンフラップ,Flaps Giù,Klapky Down
+0141,,,,,,,,,,,,
+0142,Full Flaps,Vollständige Klappen,Pleins volets,Flaps completa,Tam Kapaklı,Полный закрылки,Pełne klapy,Fuld Flaps,Volledige Flaps,フルフラップ,Flaps completi,Plné klapky
+0143,,,,,,,,,,,,
+0144,Flaps Up,Klappen hoch,Volets rentrés,Flaps arriba,Up kanatlar,Закрылки,Klapy w górę,Vender opad,Flappen Up,アップフラップ,FLAPS Up,Klapky Up
+0145,Flaps 1,Klappen 1,Volets 1,Flaps 1,Flepler 1,Клапаны 1,Klapy 1,Flaps 1,Kleppen 1,フラップ1,Flap 1,Klapky 1
+0146,Flaps 2,Klappen 2,2 volets,Flaps 2,Flepler 2,Клапаны 2,Listki 2,Flaps 2,Kleppen 2,フラップ2,Flaps 2,Klapky 2
+0147,Flaps 1,Klappen 1,Volets 1,Flaps 1,Flepler 1,Клапаны 1,Klapy 1,Flaps 1,Kleppen 1,フラップ1,Flap 1,Klapky 1
+0148,Throttle Enabled / Throttle-Cut Inactive,Gas Aktiviert / Gassperre Inaktiv,Throttle Activé / Throttle-Cut Inactif,Throttle Habilitado / Throttle-Cut Inactivo,Throttle / Gaz-Cut İnaktif Etkin,Дроссельной Включено / дроссельной Вырезать Неактивные,Przepustnicy Enabled / Cut Nieaktywne przepustnicy,Throttle Aktiveret / Throttle-Cut Inaktiv,Throttle Ingeschakeld / Throttle-Cut Inactieve,スロットル有効/スロットルカット非アクティブ,Throttle Abilitato / Throttle-Cut Inattivo,Throttle Povoleno / Throttle-Cut Neaktivní
+0149,Throttle Disabled /Throttle-Cut Active,Gas Deaktiviert / Gassperre Aktiv,Throttle handicapés / Throttle-Cut active,Activo Throttle minusválidos / Cortar Throttle-,Kelebek Engelli / Gaz-Cut Aktif,Дроссельной заслонки Отключено / дроссельной заслонки-Cut Активный,Przepustnicy niepełnosprawnych / Aktywny przepustnicy-Cut,Throttle Handikappede / Throttle-Cut Active,Throttle handicap /-Throttle Cut Actief,スロットル無効/スロットル·カットアクティブ,Throttle disabili / Throttle-Cut attivo,Throttle Zakázáno / Throttle-Cut Aktivní
+0150,Landing Gear Up,Fahrwerk hoch,Landing Gear Up,Landing Gear Up,İniş Takımları Up,Шасси До,W górę podwozia,Landing Gear Up,Landing Gear Up,ランディングギアアップ,Landing Gear Up,Landing Gear Up
+0151,Landing Gear Down,Fahrwerk runter,Landing Gear Bas,Tren de aterrizaje abajo,İniş Takımları Aşağı,Шасси вниз,Podwozia dół,Landing Gear Down,Landing Gear down,ランディングギアダウン,Atterraggio Giù,Podvozek Down
+0152,Lights On,Lichter an,Lights On,Luces Encendidas,On Işıklar,Огни на,Światła na,Lights On,Lights On,点灯,Lights On,Lights On
+0153,Lights Off,Lichter aus,Lights Off,Luces Apagadas,Kapalı Işıklar,Выключить Свет,Lights Off,Lyser Off,Licht Uit,消灯,Luci spente,Lights Off
+0154,Beacon On,Signalfeuer an,Sur Beacon,En Beacon,Beacon Açık,Маяк на,Beacon Na,Beacon On,Baken op,ビーコンについて,Beacon On,Beacon On
+0155,Beacon Off,Signalfeuer aus,Beacon Off,Beacon Off,Beacon Kapalı,Маяк Выкл,Beacon Off,Beacon Off,Beacon Off,ビーコンオフ,Beacon Off,Beacon Off
+0156,Strobe On,Stroboskop an,Sur Strobe,Strobe En,Strobe Açık,Строб С,Na stroboskopu,Strobe On,Strobe On,ストロボについて,Strobe On,Strobe Na
+0157,Strobe Off,Stroboskop aus,Strobe Off,Strobe Off,Kapalı strobe,Strobe Off,Strobe Wyłączony,Strobe Off,Strobe Off,オフストロボ,Strobe Off,STROBE Off
+0158,Throttle Hold Inactive,Gas Halten Inaktiv,Maintenez Throttle Inactif,Hold Throttle Inactivo,Kelebek Tut İnaktif,Удержания газа Неактивные,Nieaktywne zatrzymaniem przepustnicy,Throttle Hold Inaktiv,Throttle Hold Inactieve,非アクティブスロットルホールド,Tenere Throttle Inattivo,Throttle držte Neaktivní
+0159,Throttle Hold Active,Gas Halten Aktiv,Throttle HOLD actif,Throttle Hold Activo,Kelebek Aktif Tut,Держите дроссельной Активный,Aktywny trzymać przepustnicy,Throttle Hold Aktiv,Throttle Hold Actief,スロットルは、Activeホールド,Throttle Tenere attiva,Throttle Držte Aktivní
+0160,Throttle-Cut Active,Gassperre Aktiv,Throttle-Cut active,Throttle-Cut Activo,Kelebek-Cut Aktif,Дроссельной-Cut Активный,Aktywny przepustnicy-Cut,Throttle-Cut Active,-Throttle Cut Actief,スロットルカットアクティブ,Throttle-Cut attivo,Throttle-Cut Aktivní
+0161,Throttle-Cut Inactive,Gassperre Inaktiv,Throttle-Cut Inactif,Throttle-Cut Inactivo,Kelebek-Cut İnaktif,Дроссельной-Cut Неактивные,Nieaktywne przepustnicy-Cut,Throttle-Cut Inaktiv,-Throttle Cut Inactieve,スロットルカット非アクティブ,Throttle-Cut Inattivo,Throttle-Cut Neaktivní
+0162,Aileron Rate Low,Querruderrate niedrig,Aileron Faible taux,Aileron Baja Tasa,Aileron Oranı Düşük,Элерон низкой скорости,Lotka Cena Niska,Aileron Rate Low,Aileron Rate Low,エルロンレート低,Aileron Tasso Basso,Křidélek Nízká míra
+0163,,,,,,,,,,,,
+0164,Aileron Rate High,Querruderrate hoch,Aileron Taux haut,Aileron Tasa alta,Aileron Oranı Yüksek,Элерон высокая скорость,Lotka Cena Wysoka,Aileron Rate High,Aileron Rate High,エルロンレート高,Aileron Tasso alta,Křidélek vysoká míra
+0165,Elevator Rate Low,Höhenruderrate niedrig,Faible taux ascenseur,Ascensor Baja Tasa,Asansör Hızı Düşük,Лифт с низкой скоростью,Winda Cena Niska,Elevator Rate Low,Lift Rate Low,エレベーターレート低,Ascensore Tasso Basso,Výtah sazba nízká
+0166,,,,,,,,,,,,
+0167,Elevator Rate High,Höhenruderrate hoch,Ascenseur Taux haut,Ascensor Tasa alta,Asansör Hızı Yüksek,Лифт с высокой скоростью,Winda Cena Wysoka,Elevator Rate High,Lift Rate High,エレベーターレート高,Ascensore Tasso alta,Výtah vysoká míra
+0168,Gear Up,Fahrwerk hoch,Gear Up,Gear Up,Gear Up,Ускорять,Przygotuj się,Gear Up,Gear Up,ギアアップ,Gear Up,Řadit
+0169,Gear Down,Fahrwerk runter,Équipement de Down,Desmultiplicar,Dişli Aşağı,Замедлять,Bieg w dół,Gear ned,Versnelling omlaag,ギアダウン,Marcia inferiore,Zařadit
+0170,Vario On,Vario an,Sur Vario,En Vario,Vario Açık,Vario На,Na Vario,Vario On,Vario On,バリオについて,Vario On,Vario On
+0171,Vario Off,Vario aus,Vario Off,Vario Off,Vario Kapalı,Vario Выкл,Vario Wyłączony,Vario Off,Vario Off,バリオオフ,Vario Off,Vario Off
+0172,Thermal Mode,Thermal-Modus,Mode thermique,Modo térmica,Termal Mod,Тепловой режим,Tryb termiczny,Termisk tilstand,Thermische Mode,熱モード,Modalità termica,Thermal Oblečení
+0173,Normal Mode,Normal-Modus,Mode Normal,Modo Normal,Normal Mod,Нормальный режим,Tryb Normal,Normal tilstand,Normal Mode,通常モード,Modalità Normale,Normální režim
+0174,Landing Mode,Lande-Modus,Mode Landing,Modo Landing,Açılış Modu,Режим Посадка,Tryb Landing,Landing tilstand,Landing Mode,着陸モード,Modalità Landing,Režim Přistání
+0175,Acro Mode,Acro Modus,Mode Acro,Modo de Acro,Acro Modu,Режим Acro,Tryb Acro,Acro-tilstand,Acro Mode,アクロモード,Modalità Acro,Režim Acro
+0176,Flight Mode 1,Flugmodus 1,Mode Vol 1,Modo Vuelo 1,Uçuş Modu 1,Режим полета 1,Flight Mode 1,Flight Mode 1,Flight Mode 1,フライトモード1,Flight Mode 1,Režim Flight 1
+0177,Flight Mode 2,Flugmodus 2,Mode Vol 2,Modo de vuelo 2,Uçuş Modu 2,Режим полета 2,Flight Mode 2,Flytilstand 2,Flight Mode 2,フライトモード2,Flight Mode 2,Režim Flight 2
+0178,Flight Mode 3,Flugmodus 3,Mode Vol 3,Modo de vuelo 3,Uçuş Modu 3,Режим полета 3,Flight Mode 3,Flytilstand 3,Flight Mode 3,フライトモード3,Flight Mode 3,Režim Flight 3
+0179,Flight Mode 4,Flugmodus 4,Mode Vol 4,Modo de vuelo 4,Uçuş Modu 4,Режим полета 4,Flight Mode 4,Flight Mode 4,Flight Mode 4,フライトモード4,Flight Mode 4,Režim Flight 4
+0180,Flight Mode 5,Flugmodus 5,Mode Vol 5,Modo de vuelo 5,Uçuş Modu 5,Режим полета 5,Flight Mode 5,Flytilstand 5,Flight Mode 5,フライトモード5,Flight Mode 5,Režim Flight 5
+0181,Flight Mode 6,Flugmodus 6,Mode Vol 6,Modo de vuelo 6,Uçuş Modu 6,Режим полета 6,Flight Mode 6,Flytilstand 6,Flight Mode 6,フライトモード6,Flight Mode 6,Režim Flight 6
+0182,Flight Mode 7,Flugmodus 7,Mode Vol 7,Modo de vuelo 7,Uçuş Modu 7,Режим полета 7,Flight Mode 7,Flytilstand 7,Flight Mode 7,フライトモード7,Flight Mode 7,Režim Flight 7
+0183,Flight Mode 8,Flugmodus 8,Mode Vol 8,Modo de vuelo 8,Uçuş Modu 8,Режим полета 8,Flight Mode 8,Flytilstand 8,Flight Mode 8,フライトモード8,Flight Mode 8,Režim Flight 8
+0184,Acro,Acro,Acro,Acro,Acro,Acro,Acro,Acro,Acro,アクロ,Acro,Acro
+0185,Stabilized,Stabilisiert,Stabilisé,Estabilizado,Stabilize,Стабилизированный,Stabilizowane,Stabiliseret,Stabiel,安定化,Stabilizzato,Stabilizovaný
+0186,Return to home,Zurück zum Startpunkt,Retour à la maison,Vuelve a casa,Eve geri dön,Вернуться на главную,Powrót do domu,Retur til hjemmet,Keer terug naar huis,ホームに戻ります,Torna a casa,Návrat k domovu
+0187,Loiter,Loiter,Flâner,Holgazanear,Oyalanmak,Слоняться без дела,Marudzić,Loiter,Treuzelen,ぶらつきます,Bighellonare,Courat se
+0188,Heading Hold,Kurs halten,Maintenez la position,Heading Hold,Başlık Tut,Стабилизация курса,Pozycji HOLD,Overskrift Hold,Heading Hold,ヘディングホールド,Rubrica attesa,Okruh Držte
+0189,Altitude Hold,Höhe halten,Maintien d'altitude,Altitud Hold,Rakım Tut,Высота над уровнем моря Удержание,Wysokość Przytrzymaj,Altitude Hold,Altitude Hold,高度ホールド,Altitudine attesa,Nadmořská výška Podržte
+0190,Position Hold,Position halten,Position attente,Posición Hold,Pozisyon Tut,Позиция удержания,Pozycja Przytrzymaj,Position Hold,Position Hold,位置保持,Posizione di attesa,PositionHold
+0191,Speed Mode,Hochgeschwindigkeitsmodus,Mode Vitesse,Modo de velocidad,Hız Modu,Скоростной режим,Tryb prędkości,Speed ​​Mode,Speed ​​Mode,スピードモード,Speed ​​Mode,Režim Rychlost
+0192,,,,,,,,,,,,
+0193,,,,,,,,,,,,
+0194,,,,,,,,,,,,
+0195,Automatic Throttle ON,Automatisches Gas an,Automatique Throttle ON,Acelerador automático EN,Otomatik Gaz AÇIK,Автоматическая дроссельной О.Н.,Automatyczna przepustnica ON,Automatisk Throttle ON,Automatic Throttle ON,自動スロットルON,Automatic Throttle ON,Automatické Throttle ON
+0196,Automatic Throttle OFF,Automatisches Gas aus,Automatique Throttle OFF,Acelerador automático apagado,KAPALI Otomatik Gaz,Автоматическая дроссельной ВЫКЛ,Automatyczna przepustnica OFF,Automatisk Throttle OFF,Automatic Throttle OFF,自動スロットルOFF,Automatic Throttle OFF,Automatické Throttle OFF
+0197,Data Logging Started,Datenprotokollierung gestartet,Enregistrement des données en route,Registro de datos iniciales,Veri Günlüğü Başladı,Регистрация данных работы,Rozpoczęcie rejestrowania danych,Datalogning Startet,Data Logging Gestart,データロギングが開始します,Registrazione dati preliminari,Datalogging Začínáme
+0198,Data Logging Stopped,Datenprotokollierung gestoppt,Data Logging Stopped,Registro de Datos Detenido,Veri Günlüğü Durduruldu,Регистрация данных остановлена,Rejestracja danych Stopped,Datalogning Stoppet,Data Logging Gestopt,データロギングを停止します,Logging Arrestato,Datalogging Zastaveno
+0199,Trainer On,Trainer an,Sur formateur,Entrenador En,Eğitmen Açık,Тренер по,Trener dniu,Træner On,Trainer On,トレーナーについて,Trainer On,Trainer On
+0200,Trainer Off,Trainer aus,Entraîneur Off,Entrenador Off,Eğitmen Kapalı,Тренер Выкл,Trener Wyłączony,Træner Off,Trainer Off,トレーナーオフ,Trainer Off,Trainer Off
+,,,,,,,,,,,,
+0260,Model One,Modell eins,Model One,Modelo Uno,Model One,Модель Один,Model One,Model One,Model One,モデルOne,Model One,Model One
+0261,,Flaeimwiel 450,,,,,,,,,,
+0262,,,,,,,,,,,,
+0263,,,,,,,,,,,,
+0264,,,,,,,,,,,,
+0265,,,,,,,,,,,,
+0266,,,,,,,,,,,,
+0267,,,,,,,,,,,,
+0268,,,,,,,,,,,,
+0269,,,,,,,,,,,,
+,,,,,,,,,,,,
+0400,zero,null,zéro,cero,sıfır,нулю,zero,nul,zero,ゼロ,zero,nula
+0401,one,eins,une,uno,bir,один,jeden,en,één,一,uno,Jeden
+0402,two,zwei,deux,dos,iki,два,dwa,to,twee,二つ,due,Dvě
+0403,three,drei,trois,tres,üç,три,trzy,tre,drie,3,tre,Tři
+0404,four,vier,quatre,cuatro,dört,четыре,cztery,fire,vier,4,quattro,Čtyři
+0405,five,fünf,cinq,cinco,beş,пять,pięć,fem,vijf,5,cinque,Pět
+0406,six,sechs,six,seis,altı,шесть,sześć,seks,zes,6,sei,SIX
+0407,seven,sieben,Sept,Siete,yedi,Семь,siedem,syv,zeven,セブン,Sette,sevenload
+0408,eight,acht,huit,ocho,sekiz,восемь,osiem,otte,acht,8,otto,osm
+0409,nine,neun,neuf,nueve,dokuz,девять,dziewięć,ni,negen,9,nove,Devět
+0410,ten,zehn,dix,diez,on,десять,dziesięć,ti,tien,10,dieci,th
+0411,eleven,elf,onze,once,on bir,одиннадцать,jedenaście,elleve,elf,11,undici,Jedenáct
+0412,twelve,zwölf,douze,doce,oniki,двенадцать,dwanaście,tolv,twaalf,12,dodici,Dvanáct
+0413,thirteen,dreizehn,treize,trece,on üç,тринадцать,trzynaście,tretten,dertien,13,tredici,Třináct
+0414,fourteen,vierzehn,quatorze,catorce,on dört,четырнадцать,czternaście,fjorten,veertien,14,quattordici,Čtrnáct
+0415,fifteen,funfzehn,quinze,quince,onbeş,пятнадцать,piętnaście,femten,vijftien,15,quindici,Patnáct
+0416,sixteen,sechszehn,seize,dieciséis,on altı,шестнадцать,szesnaście,seksten,zestien,16,sedici,šestnáct
+0417,seventeen,siebzehn,dix-sept,diecisiete,on yedi,семнадцать,siedemnaście,sytten,zeventien,17,diciassette,Sedmnáct
+0418,eighteen,achtzehn,dix-huit,dieciocho,onsekiz,восемнадцать,osiemnaście,atten,achttien,18,diciotto,Osmnáct
+0419,nineteen,neunzehn,dix-neuf,diecinueve,on dokuz,девятнадцать,dziewiętnaście,nitten,negentien,19,diciannove,Devatenáct
+0420,twenty,zwanzig,vingt,veinte,yirmi,двадцать,dwadzieścia,tyve,twintig,20,venti,Dvacet
+0421,twenty one,einundzwanzig,vingt et un,veintiuno,yirmi bir,двадцать один,dwadzieścia jeden,enogtyve,eenentwintig,21,ventuno,Dvacet Jedna
+0422,twenty two,zweiundzwanzig,vingt-deux,Veintidós,yirmi iki,двадцать два,dwadzieścia dwa,to og tyve,tweeëntwintig,22,ventidue,Dvaadvacet
+0423,twenty three,dreiundzwanzig,vingt-trois,veintitrés,yirmiüç,двадцать три,dwadzieścia trzy,treogtyve,drieëntwintig,23,ventitré,dvacet tři
+0424,twenty four,vierundzwanzig,vingt-quatre,veinticuatro,yirmidört,двадцать четыре,dwadzieścia cztery,fireogtyve,vierentwintig,24,ventiquattro,Dvacet Čtyři
+0425,twenty five,fünfundzwanzig,vingt cinq,Veinticinco,yirmi beş,двадцать пять,dwadzieścia pięć,femogtyve,vijfentwintig,25,venticinque,Dvacetpět
+0426,twenty six,sechsundzwanzig,vingt-six,veintiseis,yirmi altı,двадцать шесть,dwadzieścia sześć,seksogtyve,zesentwintig,26,ventisei,Dvacet Šest
+0427,twenty seven,siebenundzwanzig,vingt-sept,veintisiete,yirmi yedi,двадцать семь,dwadzieścia siedem,Twenty Seven,zevenentwintig,27,ventisette,Dvacet Sedm
+0428,twenty eight,achtundzwanzig,vingt-huit,veintiocho,yirmi sekiz,двадцать восемь,dwadzieścia osiem,otteogtyve,achtentwintig,28,ventotto,Dvacet Osm
+0429,twenty nine,neunundzwanzig,vingt-neuf,veintinueve,yirmi dokuz,двадцать девять,dwadzieścia dziewięć,Twenty Nine,negenentwintig,29,ventinove,twentyninegraphics
+0430,thirty,dreißig,trente,treinta,otuz,тридцать,trzydzieści,tredive,dertig,30,trenta,Třicet
+0431,thirty one,einunddreißig,trente et un,treinta y uno,otuz bir,тридцать один,trzydzieści jeden,enogtredive,eenendertig,31,trentuno,Třicet Jedna
+0432,thirty two,zweiunddreißig,trente deux,treinta y dos,otuz iki,тридцать два,trzydzieści dwa,Thirty Two,tweeëndertig,32,trentadue,Třicet Dva
+0433,thirty three,dreiunddreißig,trente-trois,treinta y tres,otuz üç,тридцать три,trzydzieści trzy,Thirty Three,drieëndertig,33,Trentatre,Třicet Tři
+0434,thirty four,vierunddreißig,trente-quatre,treinta y cuatro,otuz dört,тридцать четыре,trzydzieści cztery,fire og tredive,vierendertig,34,trenta quattro,Čtyřiatřicet
+0435,thirty five,fünfunddreißig,trente cinq,treinta cinco,otuzbeş,тридцать пять,trzydzieści pięć,femogtredive,vijfendertig,35,trentacinque,Třicet Pět
+0436,thirty six,sechsunddreißig,trente-six,treinta seis,otuz altı,тридцать шесть,trzydzieści sześć,seksogtredive,zesendertig,36,trentasei,třicet šest
+0437,thirty seven,siebenunddreißig,trente sept,treinta y siete,otuz yedi,тридцать семь,trzydzieści siedem,tredive syv,zevenendertig,37,trentasette,třicet sedm
+0438,thirty eight,achtunddreißig,trente-huit,treinta y ocho,otuz sekiz,тридцать восемь,trzydzieści osiem,38,achtendertig,38,trentotto,Třicet Osm
+0439,thirty nine,neununddreißig,trente neuf,treinta y nueve,otuz dokuz,тридцать девять,trzydzieści dziewięć,niogtredive,negenendertig,39,trentanove,Třicet Devět
+0440,forty,vierzig,quarante,cuarenta,kırk,сорок,czterdzieści,fyrre,veertig,40,quaranta,Čtyřicet
+0441,forty one,einundvierzig,quarante et un,cuarenta y uno,kırk bir,сорок один,czterdzieści jeden,Forty One,eenenveertig,41,quarantuno,Čtyřicet Jedna
+0442,forty two,zweiundvierzig,quarante-deux,cuarenta y dos,kırk iki,сорок два,czterdzieści dwa,toogfyrre,tweeënveertig,42,quarantadue,Čtyřicet Dva
+0443,forty three,dreiundvierzig,quarante trois,cuarenta y tres,kırk üç,сорок три,czterdzieści trzy,43,drieënveertig,43,quarantatre,Čtyřicet tři
+0444,forty four,vierundvierzig,quarante quatre,cuarenta y cuatro,kırkdört,сорок четыре,czterdzieści cztery,forty four,vierenveertig,44,quarantaquattro,Čtyřicet Čtyři
+0445,forty five,fünfundvierzig,quarante-cinq,Cuarenta y cinco,kırkbeş,сорок пять,czterdzieści pięć,Forty Five,vijfenveertig,四十五,quarantacinque,čtyřicet pět
+0446,forty six,sechsundvierzig,quarante-six,cuarenta y seis,kırk altı,сорок шесть,czterdzieści sześć,46,zesenveertig,46,quarantasei,čtyřicet šest
+0447,forty seven,siebenundvierzig,quarante-sept,cuarenta y siete,kırk yedi,сорок семь,czterdzieści siedem,syvogfyrre,zevenenveertig,四十七,quaranta sette,Čtyřicet Sedm
+0448,forty eight,achtundvierzig,quarante huit,cuarenta y ocho,kırk sekiz,сорок восемь,czterdzieści osiem,Forty Eight,achtenveertig,48,quarantotto,Čtyřicet osm
+0449,forty nine,neunundvierzig,quarante-neuf,cuarenta y nueve,kırk dokuz,сорок девять,czterdzieści dziewięć,49,negenenveertig,49,quarantanove,Čtyřicet devět
+0450,fifty,funfzig,cinquante,cincuenta,elli,пятьдесят,pięćdziesiąt,halvtreds,vijftig,50,cinquanta,Padesát
+0451,fifty one,einundfunfzig,cinquante et un,cincuenta uno,elli bir,пятьдесят один,pięćdziesiąt jeden,enoghalvtreds,eenenvijftig,51,cinquantuno,Padesát Jedna
+0452,fifty two,zweiundfunfzig,cinquante-deux,cincuenta y dos,elli iki,пятьдесят два,pięćdziesiąt dwa,Fifty Two,tweeënvijftig,52,cinquantadue,Padesát Dva
+0453,fifty three,dreiundfunfzig,cinquante trois,cincuenta y tres,elli üç,пятьдесят три,pięćdziesiąt trzy,53,drieënvijftig,53,cinquantatre,Padesát tři
+0454,fifty four,vierundfunfzig,cinquante quatre,cincuenta y cuatro,elli dört,пятьдесят четыре,pięćdziesiąt cztery,Fifty Four,vierenvijftig,54,cinquanta quattro,fiftyfour
+0455,fifty five,fünfundfunfzig,cinquante-cinq,cincuenta y cinco,elli beş,пятьдесят пять,pięćdziesiąt pięć,Fifty Five,vijfenvijftig,55,cinquantacinque,Padesát Pět
+0456,fifty six,sechsundfunfzig,cinquante six,cincuenta y seis,elli altı,пятьдесят шесть,pięćdziesiąt sześć,seksoghalvtreds,zesenvijftig,56,cinquanta sei,Padesát Šest
+0457,fifty seven,siebenundfunfzig,cinquante sept,cincuenta y siete,elli yedi,пятьдесят семь,pięćdziesiąt siedem,syvoghalvtreds,zevenenvijftig,57,cinquantasette,Padesát Sedm
+0458,fifty eight,achtundfunfzig,cinquante huit,cincuenta y ocho,elli sekiz,пятьдесят восемь,pięćdziesiąt osiem,58,achtenvijftig,58,cinquantotto,padesát osm
+0459,fifty nine,neunundfunfzig,cinquante neuf,cincuenta y nueve,elli dokuz,пятьдесят девять,pięćdziesiąt dziewięć,59,negenenvijftig,59,cinquantanove,Padesát Devět
+0460,sixty,sechzig,soixante,sesenta,altmış,шестьдесят,sześćdziesiąt,tres,zestig,60,sessanta,Šedesát
+0461,sixty one,einundsechzig,soixante-et-un,sesenta y uno,altmışbir,шестьдесят один,sześćdziesiąt jeden,Enogtres,eenenzestig,61,sessantuno,Šedesát Jedna
+0462,sixty two,zweiundsechzig,soixante-deux,sesenta y dos,altmış iki,шестьдесят два,sześćdziesiąt dwa,toogtres,tweeënzestig,62,sessantadue,Šedesát Dva
+0463,sixty three,dreiundsechzig,soixante trois,sesenta y tres,altmış üç,шестьдесят три,sześćdziesiąt trzy,treogtres,drieënzestig,63,sessantatre,Šedesát Tři
+0464,sixty four,vierundsechzig,soixante-quatre,sesenta y cuatro,altmış dört,шестьдесят четыре,sześćdziesiąt cztery,fireogtres,vierenzestig,64,sessantaquattro,Sixtyfour
+0465,sixty five,fünfundsechzig,soixante-cinq,sesenta y cinco,altmış beş,шестьдесят пять,sześćdziesiąt pięć,femogtres,vijfenzestig,65,sessantacinque,Šedesát Pět
+0466,sixty six,sechsundsechzig,soixante six,sesenta y seis,altmış altı,шестьдесят шесть,sześćdziesiąt sześć,seksogtres,zesenzestig,66,sessantasei,Sixty Six
+0467,sixty seven,siebenundsechzig,soixante-sept,sesenta y siete,altmış yedi,шестьдесят семь,sześćdziesiąt siedem,Sixty Seven,zevenenzestig,六十七,sessantasette,Šedesát Sedm
+0468,sixty eight,achtundsechzig,soixante-huit,sesenta y ocho,altmış sekiz,шестьдесят восемь,sześćdziesiąt osiem,68,achtenzestig,68,Sessantotto,Sixty Eight
+0469,sixty nine,neunundsechzig,soixante neuf,sesenta y nueve,altmışdokuz,шестьдесят девять,sześćdziesiąt dziewięć,sixty nine,negenenzestig,シックスナイン,sessanta nove,sixtynine
+0470,seventy,siebzig,soixante-dix,setenta,yetmiş,семьдесят,siedemdziesiąt,halvfjerds,zeventig,70,settanta,Sedmdesát
+0471,seventy one,einundsiebzig,soixante et onze,setenta y uno,yetmiş bir,семьдесят один,siedemdziesiąt jeden,Seventy One,eenenzeventig,71,settantuno,Sedmdesát jedna
+0472,seventy two,zweiundsiebzig,soixante-douze,setenta y dos,yetmiş iki,семьдесят два,siedemdziesiąt dwa,to og halvfjerds,tweeënzeventig,72,settantadue,Sedmdesát Dva
+0473,seventy three,dreiundsiebzig,soixante-treize,setenta y tres,yetmiş üç,семьдесят три,siedemdziesiąt trzy,treoghalvfjerds,drieënzeventig,73,settantatre,Sedmdesát Tři
+0474,seventy four,vierundsiebzig,soixante quatorze,setenta y cuatro,yetmiş dört,семьдесят четыре,siedemdziesiąt cztery,74,vierenzeventig,74,settantaquattro,Sedmdesát čtyři
+0475,seventy five,fünfundsiebzig,soixante-cinq,setenta y cinco,yetmiş beş,семьдесят пять,siedemdziesiąt pięć,femoghalvfjerds,vijfenzeventig,75,Settanta cinque,sedmdesát pět
+0476,seventy six,sechsundsiebzig,soixante seize,setenta y seis,yetmiş altı,семьдесят шесть,siedemdziesiąt sześć,76,zesenzeventig,76,settantasei,Sedmdesát Šest
+0477,seventy seven,siebenundsiebzig,soixante-dix sept,setenta y siete,yetmiş yedi,семьдесят семь,siedemdziesiąt siedem,syvoghalvfjerds,zevenenzeventig,77,settantasette,Sedmdesát Sedm
+0478,seventy eight,achtundsiebzig,soixante dix huit,setenta y ocho,yetmiş sekiz,семьдесят восемь,siedemdziesiąt osiem,78,achtenzeventig,78,settantotto,Sedmdesát Osm
+0479,seventy nine,neunundsiebzig,soixante-dix-neuf,setenta y nueve,yetmiş dokuz,семьдесят девять,siedemdziesiąt dziewięć,79,negenenzeventig,79,settantanove,sedmdesát devět
+0480,eighty,achtzig,quatre-vingts,ochenta,seksen,восемьдесят,osiemdziesiąt,firs,tachtig,80,ottanta,osmdesát
+0481,eighty one,einundachtzig,quatre-vingt-un,ochenta y uno,seksen bir,восемьдесят один,osiemdziesiąt jeden,81,eenentachtig,81,ottantuno,osmdesát jedna
+0482,eighty two,zweiundachtzig,quatre-vingt deux,ochenta y dos,82,восемьдесят два,osiemdziesiąt dwa,toogfirs,tweeëntachtig,82,ottantadue,Dvaaosmdesát
+0483,eighty three,dreiundachtzig,quatre vingt trois,ochenta y tres,elli üç,восемьдесят три,osiemdziesiąt trzy,83,drieëntachtig,83,ottanta tre per,osmdesát tři
+0484,eighty four,vierundachtzig,quatre-vingt-quatre,ochenta y cuatro,seksen dört,восемьдесят четыре,osiemdziesiąt cztery,Eighty Four,vierentachtig,84,Eighty Four,Osmdesát Čtyři
+0485,eighty five,fünfundachtzig,quatre-vingt-cinq,ochenta y cinco,seksen beş,восемьдесят пять,osiemdziesiąt pięć,eighty five,vijfentachtig,85,Ottanta cinque,osmdesát pět
+0486,eighty six,sechsundachtzig,quatre-vingt-six,ochenta y seis,seksen altı,восемьдесят шесть,osiemdziesiąt sześć,86,zesentachtig,八六,ottantasei,osmdesát šest
+0487,eighty seven,siebenundachtzig,quatre-vingt sept,ochenta y siete,seksen yedi,восемьдесят семь,osiemdziesiąt siedem,87,zevenentachtig,87,ottantasette,osmdesát sedm
+0488,eighty eight,achtundachtzig,quatre vingt huit,ochenta y ocho,seksen sekiz,восемьдесят восемь,osiemdziesiąt osiem,88,achtentachtig,88,ottantotto,Osmdesát Osm
+0489,eighty nine,neunundachtzig,quatre vingt neuf,ochenta y nueve,Eighty Nine,восемьдесят девять,osiemdziesiąt dziewięć,89,negenentachtig,89,ottantanove,osmdesát devět
+0490,ninety,neunzig,quatre-vingt-,noventa,doksan,девяносто,dziewięćdziesiąt,halvfems,negentig,90,novanta,Devadesát
+0491,ninety one,einundneunzig,quatre vingt onze,noventa y uno,doksan bir,девяносто один,dziewięćdziesiąt jeden,halvfems,eenennegentig,91,novantuno,Devadesát Jedna
+0492,ninety two,zweiundneunzig,quatre-vingt douze,noventa y dos,doksan iki,девяносто два,dziewięćdziesiąt dwa,tooghalvfems,tweeënnegentig,92,92,devadesát dva
+0493,ninety three,dreiundneunzig,quatre-vingt treize,noventa y tres,doksan üç,девяносто три,dziewięćdziesiąt trzy,93,drieënnegentig,93,novanta tre,devadesát tři
+0494,ninety four,vierundneunzig,quatre-vingt quatorze,noventa y cuatro,doksan dört,девяносто четыре,dziewięćdziesiąt cztery,94,vierennegentig,94,Ninety Four,Devadesát čtyři
+0495,ninety five,fünfundneunzig,quatre vingt quinze,noventa y cinco,doksan beş,девяносто пять,dziewięćdziesiąt pięć,femoghalvfems,vijfennegentig,95,novantacinque,Devadesát Pět
+0496,ninety six,sechsundneunzig,quatre vingt seize,noventa y seis,doksan altı,девяносто шесть,dziewięćdziesiąt sześć,Ninety Six,zesennegentig,96,Ninety Six,Ninety Six
+0497,ninety seven,siebenundneunzig,quatre-vingt-dix-sept,noventa y siete,doksan yedi,девяносто семь,dziewięćdziesiąt siedem,97,zevenennegentig,97,novantasette,devadesát sedm
+0498,ninety eight,achtundneunzig,quatre-vingt dix-huit,noventa y ocho,doksan sekiz,девяносто восемь,dziewięćdziesiąt osiem,otteoghalvfems,achtennegentig,九八,novantotto,Devadesát Osm
+0499,ninety nine,neunundneunzig,quatre-vingt-dix-neuf,noventa y nueve,doksan dokuz,девяносто девять,dziewięćdziesiąt dziewięć,Ninety Nine,negenennegentig,九九,novantanove,Devadesát Devět
