@@ -17,9 +17,11 @@ IFS=$','
 # Welcome
 say -v Daniel "Starting with the creation of the language files."
 
+# Interrupt message
 trap '{
         echo "\n\t>> Creation interrupted.\n";
         say -v Daniel "Creation interrupted.";
+        rm -f temp.wav;
         exit 1;
         }' INT
 
