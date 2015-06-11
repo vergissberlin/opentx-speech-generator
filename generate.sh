@@ -5,9 +5,25 @@
 #
 # The list of available voices:s: say -v '?'
 # @author André Lademann <vergissberlin@googlemail.com>
+#
+# == Your language is missing? ==
+# Feel free to add it:
+# https://docs.google.com/spreadsheets/d/1a4PmykBNEFIXGFeczo2H2s-zHMc7_fRl1GRQbMWlAio/edit?usp=sharing
+# When you're done, export the table as a CVS file and replace "Text2SpeechMap.csv".
 
 # Set a comma to be the internal field separator to get string tokenizing for free.
 IFS=$','
+
+# Welcome
+say -v Daniel "Starting with the creation of the language files."
+
+trap '{
+        echo "\n\t>> Creation interrupted.\n";
+        say -v Daniel "Creation interrupted.";
+        exit 1;
+        }' INT
+
+# Iteration through csv file
 while read -r line; do
 
     # Get data
@@ -66,3 +82,4 @@ done < Text2SpeechMap.csv
 # Revert IFS modification
 unset IFS
 rm temp.wav
+say -v Daniel "Voice files created. Copy them to the SD card."
