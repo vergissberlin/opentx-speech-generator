@@ -1,69 +1,68 @@
 #!/bin/bash
 
-# @see http://openrcforums.com/forum/viewtopic.php?f=123&t=5887
+# Install dependencies before:
 # brew install sox
-# chmod +x generate.sh
-
-# # Female Voices
-# say -v Samantha "Samantha, hello world"  # Siri's Voice
-# say -v Agnes "Agnes, hello world"
-# say -v Kathy "Kathy, hello world"
-# say -v Princess "Princess, hello world"
-# say -v Vicki "Vicki, hello world"
-# say -v Victoria "Victoria, hello world"
 #
-# # Male Voices
-# say -v Alex "Alex, hello world"
-# say -v Bruce "Bruce, hello world"
-# say -v Fred "Fred, hello world"
-# say -v Junior "Junior, hello world"
-# say -v Ralph "Ralph, hello world"
-
 # The list of available voices:s: say -v '?'
+# @author André Lademann <vergissberlin@googlemail.com>
 
-# Set a comma to be the internal field separator to get string tokenizing for free...
+# Set a comma to be the internal field separator to get string tokenizing for free.
 IFS=$','
 while read -r line; do
-	# Only if it is not a comment 
-	if [[ $line != '#'* ]]; then
-		columns=( $line )
-		index=${columns[0]}
-		english=${columns[1]}
-		german=${columns[2]}
-		french=${columns[3]}
-		espanol=${columns[4]}
-		turkish=${columns[5]}
-		russian=${columns[6]}
 
-		# Only if it has a text
-		if [ -n "$english" ]; then
-    		lang='english'
-    		# Veena, Daniel, Bruce, Victoria
-    		voice='Daniel'
-    		mkdir -p "lang/${lang}/${voice}"
-			filename=lang/${lang}/${voice}/${index}.wav
-			echo "🇬🇧\t${english}"
-			# Synthesize text
-			say -v ${voice} -o temp.wav --data-format=I16@22050 $english
-			# Adapt format to be 9XR PRO compatible
-			sox temp.wav -t wavpcm -e signed-integer $filename
-		fi
+    # Get data
+    columns=( $line )
 
-		# Only if it has a text
-		if [ -n "$german" ]; then
-    		lang='german'
-		    # Markus, Anna, Petra, Yannick
-    		voice='Markus'
-    		mkdir -p "lang/${lang}/${voice}"
-			filename=lang/${lang}/${voice}/${index}.wav
-			echo "🇩🇪\t${german}"
-			# Synthesize text
-			say -v ${voice} -o temp.wav --data-format=I16@22050 $german
-			# Adapt format to be 9XR PRO compatible
-			sox temp.wav -t wavpcm -e signed-integer $filename
-		fi
+    # Exclude comments
+	if [[ ${columns[0]} == '#'* ]]; then
+	    continue
 	fi
+
+	# Language key
+	if [[ ${columns[0]} == ':key'* ]]; then
+	    keys=( $line )
+	    unset keys[0]
+	    continue
+	fi
+
+	# Voices
+	if [[ ${columns[0]} == ':voice'* ]]; then
+	    voices=( $line )
+	    unset voices[0]
+	    continue
+	fi
+
+    # Translations
+    if [[ ${columns[0]} != '#'* ]]; then
+
+        # translation for each language key
+        for index in ${!columns[*]}
+        do
+            if [[ ${index} == 0 ]]; then
+                continue
+            fi
+
+
+            if [ -n "${columns[$index]}" ]; then
+                key=${keys[$index]}
+                voice=${voices[$index]}
+                content=${columns[$index]}
+                dir="lang/${key}/${voice}"
+                filename=${dir}/${columns[0]}.wav
+
+                mkdir -p ${dir}
+                echo " ${key}:\t ${content}"
+
+                # Synthesize text
+                say -v ${voice} -o temp.wav --data-format=I16@22050 $content
+                # Adapt format to be 9XR PRO compatible
+                sox temp.wav -t wavpcm -e signed-integer $filename
+            fi
+        done
+    fi
+
 done < Text2SpeechMap.csv
+
 # Revert IFS modification
 unset IFS
 rm temp.wav

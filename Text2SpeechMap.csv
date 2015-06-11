@@ -1,6 +1,6 @@
 # Language,English,German,French,Espanol,Turkish,Russian,Polish
-# Key,en,de,fr,es,tu,ru,pl
-# Voice,Daniel,Markus,Thomas,Monica,Yelda,Milena,Zosia
+:key,en,de,fr,es,tu,ru,pl
+:voice,Daniel,Markus,Thomas,Monica,Yelda,Milena,Zosia
 0000,Zero,Null,Zéro,Cero,Sıfır,Нулю,Zero
 0001,One,Eins,Une,Uno,Bir,Один,Jeden
 0002,Two,Zwei,Deux,Dos,Iki,Два,Dwa
@@ -197,8 +197,8 @@
 0192,,,,,,,
 0193,,,,,,,
 0194,,,,,,,
-0195,"Automatic Throttle, ON",Automatisches Gas an,"Automatique Throttle, ON","Acelerador automático, EN","Otomatik Gaz, AÇIK",Автоматическая дроссельной О.Н.,"Automatyczna przepustnica, ON"
-0196,"Automatic Throttle, OFF",Automatisches Gas aus,"Automatique Throttle, OFF","Acelerador automático, apagado","KAPALI Otomatik Gaz,","Автоматическая дроссельной, ВЫКЛ","Automatyczna przepustnica, OFF"
+0195,Automatic Throttle ON,Automatisches Gas an,Automatique Throttle ON,Acelerador automático EN,Otomatik Gaz AÇIK,Автоматическая дроссельной О.Н.,Automatyczna przepustnica ON
+0196,Automatic Throttle OFF,Automatisches Gas aus,Automatique Throttle OFF,Acelerador automático apagado,KAPALI Otomatik Gaz,Автоматическая дроссельной ВЫКЛ,Automatyczna przepustnica OFF
 0197,Data Logging Started,Datenprotokollierung gestartet,Enregistrement des données en route,Registro de datos iniciales,Veri Günlüğü Başladı,Регистрация данных работы,Rozpoczęcie rejestrowania danych
 0198,Data Logging Stopped,Datenprotokollierung gestoppt,Data Logging Stopped,Registro de Datos Detenido,Veri Günlüğü Durduruldu,Регистрация данных остановлена,Rejestracja danych Stopped
 0199,Trainer On,Trainer an,Sur formateur,Entrenador En,Eğitmen Açık,Тренер по,Trener dniu

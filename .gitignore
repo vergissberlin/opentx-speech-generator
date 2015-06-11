@@ -1,6 +1,7 @@
 *~
 .DS_Store
 .idea
+*.zip
 /lang
 atlassian-ide-plugin.xml
 temp.wav
