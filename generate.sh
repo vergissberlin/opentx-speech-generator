@@ -14,13 +14,17 @@
 # Set a comma to be the internal field separator to get string tokenizing for free.
 IFS=$','
 
+# Check dependencies
+command -v say >/dev/null 2>&1 || { echo >&2 "I require say but it's not installed. Aborting."; exit 1; }
+command -v sox >/dev/null 2>&1 || { say -v Alex "I require sox but it's not installed. Aborting."; exit 1; }
+
 # Welcome
-say -v Daniel "Starting with the creation of the language files."
+say -v Alex "Starting with the creation of the language files."
 
 # Interrupt message
 trap '{
         echo "\n\t>> Creation interrupted.\n";
-        say -v Daniel "Creation interrupted.";
+        say -v Alex "Creation interrupted.";
         rm -f temp.wav;
         exit 1;
         }' INT
@@ -28,60 +32,59 @@ trap '{
 # Iteration through csv file
 while read -r line; do
 
-    # Get data
-    columns=( $line )
+	# Get data
+	columns=( $line )
 
-    # Exclude comments
+	# Exclude comments
 	if [[ ${columns[0]} == '#'* ]]; then
 	    continue
 	fi
 
 	# Language key
 	if [[ ${columns[0]} == ':key'* ]]; then
-	    keys=( $line )
-	    unset keys[0]
-	    continue
+		keys=( $line )
+		unset keys[0]
+		continue;
 	fi
 
 	# Voices
 	if [[ ${columns[0]} == ':voice'* ]]; then
-	    voices=( $line )
-	    unset voices[0]
-	    continue
+		voices=( $line )
+		unset voices[0]
+		continue
 	fi
 
     # Translations
-    if [[ ${columns[0]} != '#'* ]]; then
+	if [[ ${columns[0]} != '#'* ]]; then
 
-        # translation for each language key
-        for index in ${!columns[*]}
-        do
-            if [[ ${index} == 0 ]]; then
-                continue
-            fi
+		# translation for each language key
+		for index in ${!columns[*]}
+		do
+			if [[ ${index} == 0 ]]; then
+				continue
+			fi
 
+			if [ -n "${columns[$index]}" ]; then
+				key=${keys[$index]}
+				voice=${voices[$index]}
+				content=${columns[$index]}
+				dir="lang/${key}/${voice}"
+				filename=${dir}/${columns[0]}.wav
 
-            if [ -n "${columns[$index]}" ]; then
-                key=${keys[$index]}
-                voice=${voices[$index]}
-                content=${columns[$index]}
-                dir="lang/${key}/${voice}"
-                filename=${dir}/${columns[0]}.wav
+				mkdir -p ${dir}
+				echo " ${key}:\t ${content}"
 
-                mkdir -p ${dir}
-                echo " ${key}:\t ${content}"
-
-                # Synthesize text
-                say -v ${voice} -o temp.wav --data-format=I16@22050 $content
-                # Adapt format to be 9XR PRO compatible
-                sox temp.wav -t wavpcm -e signed-integer $filename
-            fi
-        done
-    fi
+				# Synthesize text
+				say -v ${voice} -o temp.wav --data-format=I16@22050 $content
+				# Adapt format to be 9XR PRO compatible
+				sox temp.wav -t wavpcm -e signed-integer $filename
+			fi
+		done
+fi
 
 done < Text2SpeechMap.csv
 
 # Revert IFS modification
 unset IFS
 rm temp.wav
-say -v Daniel "Voice files created. Copy them to the SD card."
+say -v Alex "Voice files created. Copy them to the SD card."
