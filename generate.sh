@@ -80,9 +80,8 @@ while read -r line; do
 				sox temp.wav -t wavpcm -e signed-integer $filename
 			fi
 		done
-fi
-
-done < Text2SpeechMap.csv
+	fi
+done < ${1:-Text2SpeechMap.csv}
 
 # Revert IFS modification
 unset IFS
