@@ -1,10 +1,18 @@
 #!/usr/bin/env bash
 
+
+####################################################################################
+# opentx-speech-generator:	2.2.1
+# Copyright:				2017, MIT
+# Author: 					André Lademann <vergissberlin@googlemail.com>
+# Repository:				https://github.com/vergissberlin/bashlib
+####################################################################################
+
+
 # Install dependencies before:
 # brew install sox
 #
 # The list of available voices:s: say -v '?'
-# @author André Lademann <vergissberlin@googlemail.com>
 #
 # == Your language is missing? ==
 # Feel free to add it:
@@ -23,11 +31,11 @@ say -v Alex "Starting with the creation of the language files."
 
 # Interrupt message
 trap '{
-        echo "\n\t>> Creation interrupted.\n";
-        say -v Alex "Creation interrupted.";
-        rm -f temp.wav;
-        exit 1;
-        }' INT
+	echo "\n\t>> Creation interrupted.\n";
+	say -v Alex "Creation interrupted.";
+	rm -f temp.wav;
+	exit 1;
+	}' INT
 
 # Iteration through csv file
 while read -r line; do
