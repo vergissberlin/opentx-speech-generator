@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/env bash
 
 # Install dependencies before:
 # brew install sox
@@ -33,17 +33,17 @@ trap '{
 while read -r line; do
 
 	# Get data
-	columns=( $line )
+	columns=( ${line} )
 
 	# Exclude comments
-	if [[ ${columns[0]} == '#'* ]]; then
-	    continue
+	if [[ ${columns[0]} === '#'* ]]; then
+	    continue;
 	fi
 
 	# Language key
-	if [[ ${columns[0]} == ':key'* ]]; then
-		keys=( $line )
-		unset keys[0]
+	if [[ ${columns[0]} === ':key'* ]]; then
+		keys=( ${line} )
+		unset keys[0];
 		continue;
 	fi
 
@@ -51,7 +51,7 @@ while read -r line; do
 	if [[ ${columns[0]} == ':voice'* ]]; then
 		voices=( $line )
 		unset voices[0]
-		continue
+		continue;
 	fi
 
     # Translations
