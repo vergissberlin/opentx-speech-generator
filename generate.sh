@@ -88,10 +88,11 @@ while read -r line; do
 				# Synthesize text
 				say -v ${voice} -o temp.wav --data-format=I16@22050 ${content} >/dev/null 2>&1 \
 					&& messageOk " ${key}:\t ${content}" \
-					|| messageWarn $? "Generation failed. Voice ${voice} for ${key} not found."
+					|| messageWarn "Generation failed. Voice ${voice} for ${key} not found."
 
 				# Adapt format to be 9XR PRO compatible
-				sox temp.wav -t wavpcm -e signed-integer ${filename}
+				sox temp.wav -t wavpcm -e signed-integer ${filename} >/dev/null 2>&1 \
+					|| messageError $? "Conversion of the wav file failed. "
 			fi
 		done
 	fi
