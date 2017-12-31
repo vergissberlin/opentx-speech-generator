@@ -32,10 +32,103 @@
       sh generate.sh
       </code></pre>
 
-    <h3>
-        <a id="authors-and-contributors" class="anchor" href="#authors-and-contributors" aria-hidden="true"><span
-                class="octicon octicon-link"></span></a>Authors and Contributors</h3>
 
+    <article class="markdown-body entry-content" itemprop="text"><h1><a href="#opentx-speech-generator" aria-hidden="true" class="anchor" id="user-content-opentx-speech-generator"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>OpenTX speech generator</h1>
+        <p>Multilingual speech file generation for <em><a href="http://www.open-tx.org" rel="nofollow">OpenTX</a></em> transmitter
+           like the <em><a href="https://hobbyking.com/de_de/turnigy-9xr-transmitter-mode-2-no-module.html" rel="nofollow">Turnigy 9XR</a></em>
+           or <em><a href="https://www.frsky-rc.com/product-category/transmitters/" rel="nofollow">Taranis</a></em> using the macOS program <em>say</em>.</p>
+        <p><a href="https://www.youtube.com/watch?v=gTEkSz8f-N4" rel="nofollow"><img src="https://camo.githubusercontent.com/49dd4f546325e3525ddb23a5ef828cafe0211d7c/68747470733a2f2f696d672e796f75747562652e636f6d2f76692f6754456b537a38662d4e342f302e6a7067" alt="Demonstration" data-canonical-src="https://img.youtube.com/vi/gTEkSz8f-N4/0.jpg" style="max-width:100%;"></a></p>
+        <h2><a href="#dependencies" aria-hidden="true" class="anchor" id="user-content-dependencies"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Dependencies</h2>
+        <ul>
+            <li><strong>On your mac</strong>
+                <ul>
+                    <li>macOS &gt; 10.9</li>
+                    <li>sox</li>
+                </ul>
+            </li>
+            <li><strong>On your transmitter</strong>
+                <ul>
+                    <li>OpenTX &gt; 2.2.0</li>
+                </ul>
+            </li>
+        </ul>
+        <h2><a href="#installation" aria-hidden="true" class="anchor" id="user-content-installation"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Installation</h2>
+        <p><code>brew install sox</code></p>
+        <h3><a href="#usage" aria-hidden="true" class="anchor" id="user-content-usage"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Usage</h3>
+        <ol>
+            <li>Download &amp; extract / checkout the source code</li>
+            <li>Open then terminal</li>
+            <li>change to the directory</li>
+            <li>run the generator script</li>
+            <li>Copy the generated audio files to your transmitter</li>
+            <li>Setup audio events for your transmitter</li>
+        </ol>
+        <h3><a href="#preset-audios" aria-hidden="true" class="anchor" id="user-content-preset-audios"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Preset audios</h3>
+        <p>I made uge preset for your, and translate it to a lot of other languages.
+           I had used the google translator for that, so feel free to leave comments in the document if something is wrong!</p>
+        <p><strong>Leave a comment</strong> <a href="https://docs.google.com/spreadsheets/d/1a4PmykBNEFIXGFeczo2H2s-zHMc7_fRl1GRQbMWlAio/edit#gid=604462468" rel="nofollow">https://docs.google.com/spreadsheets/d/1a4PmykBNEFIXGFeczo2H2s-zHMc7_fRl1GRQbMWlAio/edit#gid=604462468</a></p>
+        <h3><a href="#custom-audios" aria-hidden="true" class="anchor" id="user-content-custom-audios"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Custom audios</h3>
+        <p>If you wanna add or edit something on your own, it's easy like that:</p>
+        <ol>
+            <li>Import the included <code>Text2SpeeMap.csv</code> in your Spreadsheet program like <em>Pages</em>, <em>Open Office</em> or <em>Google Drive</em>.</li>
+            <li>Add, edit, delete some rows and export it again as csv.</li>
+            <li>Replace the <code>Text2SpeeMap.csv</code> and rerun the script.</li>
+        </ol>
+        <h3><a href="#hints" aria-hidden="true" class="anchor" id="user-content-hints"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Hints</h3>
+        <h4><a href="#translations" aria-hidden="true" class="anchor" id="user-content-translations"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Translations</h4>
+        <p>With <a href="http://translate.google.com" rel="nofollow">http://translate.google.com</a> it is easy to translate hole documents!
+           If you add a new one, feel free to contact me!</p>
+        <h4><a href="#available-voices" aria-hidden="true" class="anchor" id="user-content-available-voices"><svg aria-hidden="true" class="octicon octicon-link" height="16" version="1.1" viewBox="0 0 16 16" width="16"><path fill-rule="evenodd" d="M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z"></path></svg></a>Available voices</h4>
+        <p>The list of available voices you get with: <code>say -v '?'</code></p>
+        <pre><code>Alex                en_US    # Most people recognize me by my voice.
+Alice               it_IT    # Salve, mi chiamo Alice e sono una voce italiana.
+Alva                sv_SE    # Hej, jag heter Alva. Jag är en svensk röst.
+Amelie              fr_CA    # Bonjour, je m’appelle Amelie. Je suis une voix canadienne.
+Anna                de_DE    # Hallo, ich heiße Anna und ich bin eine deutsche Stimme.
+Carmit              he_IL    # שלום. קוראים לי כרמית, ואני קול בשפה העברית.
+Damayanti           id_ID    # Halo, nama saya Damayanti. Saya berbahasa Indonesia.
+Daniel              en_GB    # Hello, my name is Daniel. I am a British-English voice.
+Diego               es_AR    # Hola, me llamo Diego y soy una voz española.
+Ellen               nl_BE    # Hallo, mijn naam is Ellen. Ik ben een Belgische stem.
+Fiona               en-scotland # Hello, my name is Fiona. I am a Scottish-English voice.
+Fred                en_US    # I sure like being inside this fancy computer
+Ioana               ro_RO    # Bună, mă cheamă Ioana . Sunt o voce românească.
+Joana               pt_PT    # Olá, chamo-me Joana e dou voz ao português falado em Portugal.
+Jorge               es_ES    # Hola, me llamo Jorge y soy una voz española.
+Juan                es_MX    # Hola, me llamo Juan y soy una voz mexicana.
+Kanya               th_TH    # สวัสดีค่ะ ดิฉันชื่อKanya
+Karen               en_AU    # Hello, my name is Karen. I am an Australian-English voice.
+Kyoko               ja_JP    # こんにちは、私の名前はKyokoです。日本語の音声をお届けします。
+Laura               sk_SK    # Ahoj. Volám sa Laura . Som hlas v slovenskom jazyku.
+Lekha               hi_IN    # नमस्कार, मेरा नाम लेखा है. मैं हिन्दी में बोलने वाली आवाज़ हूँ.
+Luca                it_IT    # Salve, mi chiamo Luca e sono una voce italiana.
+Luciana             pt_BR    # Olá, o meu nome é Luciana e a minha voz corresponde ao português que é falado no Brasil
+Maged               ar_SA    # مرحبًا اسمي Maged. أنا عربي من السعودية.
+Mariska             hu_HU    # Üdvözlöm! Mariska vagyok. Én vagyok a magyar hang.
+Mei-Jia             zh_TW    # 您好，我叫美佳。我說國語。
+Melina              el_GR    # Γεια σας, ονομάζομαι Melina. Είμαι μια ελληνική φωνή.
+Milena              ru_RU    # Здравствуйте, меня зовут Milena. Я – русский голос системы.
+Moira               en_IE    # Hello, my name is Moira. I am an Irish-English voice.
+Monica              es_ES    # Hola, me llamo Monica y soy una voz española.
+Nora                nb_NO    # Hei, jeg heter Nora. Jeg er en norsk stemme.
+Paulina             es_MX    # Hola, me llamo Paulina y soy una voz mexicana.
+Samantha            en_US    # Hello, my name is Samantha. I am an American-English voice.
+Sara                da_DK    # Hej, jeg hedder Sara. Jeg er en dansk stemme.
+Satu                fi_FI    # Hei, minun nimeni on Satu. Olen suomalainen ääni.
+Sin-ji              zh_HK    # 您好，我叫 Sin-ji。我講廣東話。
+Tessa               en_ZA    # Hello, my name is Tessa. I am a South African-English voice.
+Thomas              fr_FR    # Bonjour, je m’appelle Thomas. Je suis une voix française.
+Ting-Ting           zh_CN    # 您好，我叫Ting-Ting。我讲中文普通话。
+Veena               en_IN    # Hello, my name is Veena. I am an Indian-English voice.
+Victoria            en_US    # Isn't it nice to have a computer that will talk to you?
+Xander              nl_NL    # Hallo, mijn naam is Xander. Ik ben een Nederlandse stem.
+Yelda               tr_TR    # Merhaba, benim adım Yelda. Ben Türkçe bir sesim.
+Yuna                ko_KR    # 안녕하세요. 제 이름은 Yuna입니다. 저는 한국어 음성입니다.
+Yuri                ru_RU    # Здравствуйте, меня зовут Yuri. Я – русский голос системы.
+Zosia               pl_PL    # Witaj. Mam na imię Zosia, jestem głosem kobiecym dla języka polskiego.
+Zuzana              cs_CZ    # Dobrý den, jmenuji se Zuzana. Jsem český hlas.
+</code></pre>
+    </article>
     <h3>Example word list</h3>
     <iframe width="100%" height="380"
             src="https://docs.google.com/spreadsheets/d/1a4PmykBNEFIXGFeczo2H2s-zHMc7_fRl1GRQbMWlAio/pubhtml?gid=604462468&amp;single=true&amp;widget=true&amp;headers=false"></iframe>
