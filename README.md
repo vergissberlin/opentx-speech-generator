@@ -6,6 +6,8 @@ or *[Taranis](https://www.frsky-rc.com/product-category/transmitters/)* using th
            
 [![Demonstration](https://img.youtube.com/vi/gTEkSz8f-N4/0.jpg)](https://www.youtube.com/watch?v=gTEkSz8f-N4)
 
+[![asciicast](https://asciinema.org/a/YazEAdRJXgSmsxvVBZbSVb5rg.png)](https://asciinema.org/a/YazEAdRJXgSmsxvVBZbSVb5rg)
+
 ## Dependencies
 
 - **On your mac**
