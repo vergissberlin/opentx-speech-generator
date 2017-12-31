@@ -105,3 +105,17 @@ Yuri                ru_RU    # Здравствуйте, меня зовут Yur
 Zosia               pl_PL    # Witaj. Mam na imię Zosia, jestem głosem kobiecym dla języka polskiego.
 Zuzana              cs_CZ    # Dobrý den, jmenuji se Zuzana. Jsem český hlas.
 ```
+
+#### Add voices
+
+Apple has created lots of new speech synthesizer voices for Lion. It's easy to download them, but the fact that they exist isn't very-well advertised in System Preferences (or otherwise in the OS). 
+Here's how to get them.
+
+1. Open System Preferences » Speech » Text to Speech.
+2. Click on the System Voice: menu and select Customize.
+3. You're presented with a huge list of voices to choose from.
+4. Click on a voice and press Play to preview it.
+5. Check the boxes to the left of the ones you like. Then click OK.
+
+Software Update will open and download your voices. 
+Be warned, some of the files are huge. 

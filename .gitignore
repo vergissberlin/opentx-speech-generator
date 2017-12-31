@@ -2,6 +2,5 @@
 .DS_Store
 .idea
 *.zip
-/lang
-atlassian-ide-plugin.xml
+/SOUNDS
 temp.wav

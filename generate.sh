@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-
+set -e
 
 ####################################################################################
 # opentx-speech-generator:	2.2.1
@@ -8,6 +8,7 @@
 # Repository:				https://github.com/vergissberlin/bashlib
 ####################################################################################
 
+. ./lib/message.sh
 
 # Install dependencies before:
 # brew install sox
@@ -22,17 +23,18 @@
 # Set a comma to be the internal field separator to get string tokenizing for free.
 IFS=$','
 
+# Welcome
+messageHeader "OpenTX speech generator v2.2.1"
+
 # Check dependencies
 command -v say >/dev/null 2>&1 || { echo >&2 "I require say but it's not installed. Aborting."; exit 1; }
-command -v sox >/dev/null 2>&1 || { say -v Alex "I require sox but it's not installed. Aborting."; exit 1; }
+command -v sox >/dev/null 2>&1 || { messageError 1 "I require the program sox but it's not installed. Check the README!\n"; }
 
-# Welcome
-say -v Alex "Starting with the creation of the language files."
+messageInfo "Starting with the creation of the language files."
 
 # Interrupt message
 trap '{
-	echo "\n\t>> Creation interrupted.\n";
-	say -v Alex "Creation interrupted.";
+	messageWarn "Creation interrupted.";
 	rm -f temp.wav;
 	exit 1;
 	}' INT
@@ -44,22 +46,22 @@ while read -r line; do
 	columns=( ${line} )
 
 	# Exclude comments
-	if [[ ${columns[0]} === '#'* ]]; then
-	    continue;
+	if [[ ${columns[0]} == '#'* ]]; then
+		continue
 	fi
 
 	# Language key
-	if [[ ${columns[0]} === ':key'* ]]; then
+	if [[ ${columns[0]} == ':key'* ]]; then
 		keys=( ${line} )
-		unset keys[0];
-		continue;
+		unset keys[0]
+		continue
 	fi
 
 	# Voices
 	if [[ ${columns[0]} == ':voice'* ]]; then
-		voices=( $line )
+		voices=( ${line} )
 		unset voices[0]
-		continue;
+		continue
 	fi
 
     # Translations
@@ -75,17 +77,21 @@ while read -r line; do
 			if [ -n "${columns[$index]}" ]; then
 				key=${keys[$index]}
 				voice=${voices[$index]}
+				directory="${directories[$index]}/"
 				content=${columns[$index]}
-				dir="lang/${key}/${voice}"
-				filename=${dir}/${columns[0]}.wav
+				path="./SOUNDS/${key}${directory}"
+				filename=${path}/${columns[0]}.wav
 
-				mkdir -p ${dir}
-				echo " ${key}:\t ${content}"
+				# Create directory if not exists
+				mkdir -p ${path}
 
 				# Synthesize text
-				say -v ${voice} -o temp.wav --data-format=I16@22050 $content
+				say -v ${voice} -o temp.wav --data-format=I16@22050 ${content} >/dev/null 2>&1 \
+					&& messageOk " ${key}:\t ${content}" \
+					|| messageWarn $? "Generation failed. Voice ${voice} for ${key} not found."
+
 				# Adapt format to be 9XR PRO compatible
-				sox temp.wav -t wavpcm -e signed-integer $filename
+				sox temp.wav -t wavpcm -e signed-integer ${filename}
 			fi
 		done
 	fi
